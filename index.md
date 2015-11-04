@@ -1,4 +1,3 @@
-# **黄**的**页**面
 ![Mou icon](http://www.hwuque.com/Public/Home/Css/images/top_logo.gif)
 
 
