@@ -13,9 +13,109 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"2.0餐卡",
+        "pageName":"版本记录",
         "type":"Wireframe",
-        "url":"2_0餐卡.html"}]},
+        "url":"版本记录.html"},
+{
+        "pageName":"需求场景描述",
+        "type":"Wireframe",
+        "url":"需求场景描述.html"},
+{
+        "pageName":"产品架构图",
+        "type":"Wireframe",
+        "url":"产品架构图.html"},
+{
+        "pageName":"用例图",
+        "type":"Wireframe",
+        "url":"用例图.html"},
+{
+        "pageName":"流程图",
+        "type":"Wireframe",
+        "url":"流程图.html",
+        "children":[{
+            "pageName":"早餐就餐流程图",
+            "type":"Wireframe",
+            "url":"早餐就餐流程图.html"},
+{
+            "pageName":"午餐就餐流程图",
+            "type":"Wireframe",
+            "url":"午餐就餐流程图.html"}]},
+{
+        "pageName":"原型",
+        "type":"Wireframe",
+        "url":"原型.html",
+        "children":[{
+            "pageName":"就餐入口",
+            "type":"Wireframe",
+            "url":"就餐入口.html",
+            "children":[{
+                "pageName":"就餐主页（集团员工）",
+                "type":"Wireframe",
+                "url":"就餐主页（集团员工）.html",
+                "children":[{
+                    "pageName":"员工就餐-早餐点餐",
+                    "type":"Wireframe",
+                    "url":"员工就餐-早餐点餐.html",
+                    "children":[{
+                        "pageName":"下单",
+                        "type":"Wireframe",
+                        "url":"下单.html",
+                        "children":[{
+                            "pageName":"支付成功",
+                            "type":"Wireframe",
+                            "url":"支付成功.html"},
+{
+                            "pageName":"生成早餐券",
+                            "type":"Wireframe",
+                            "url":"生成早餐券.html"}]}]},
+{
+                    "pageName":"申请退款",
+                    "type":"Wireframe",
+                    "url":"申请退款.html",
+                    "children":[{
+                        "pageName":"退款详情",
+                        "type":"Wireframe",
+                        "url":"退款详情.html"}]},
+{
+                    "pageName":"券列表",
+                    "type":"Wireframe",
+                    "url":"券列表.html",
+                    "children":[{
+                        "pageName":"早餐券",
+                        "type":"Wireframe",
+                        "url":"早餐券.html"}]},
+{
+                    "pageName":"员工就餐-午餐",
+                    "type":"Wireframe",
+                    "url":"员工就餐-午餐.html"}]},
+{
+                "pageName":"就餐主页（外联人员）",
+                "type":"Wireframe",
+                "url":"就餐主页（外联人员）.html",
+                "children":[{
+                    "pageName":"早餐购买（与集团员工一致）",
+                    "type":"Wireframe",
+                    "url":"早餐购买（与集团员工一致）.html"},
+{
+                    "pageName":"午餐购买",
+                    "type":"Wireframe",
+                    "url":"午餐购买.html",
+                    "children":[{
+                        "pageName":"支付",
+                        "type":"Wireframe",
+                        "url":"支付.html"}]},
+{
+                    "pageName":"券列表的",
+                    "type":"Wireframe",
+                    "url":"券列表的.html",
+                    "children":[{
+                        "pageName":"早餐券",
+                        "type":"Wireframe",
+                        "url":"早餐券_1.html"},
+{
+                        "pageName":"午餐券",
+                        "type":"Wireframe",
+                        "url":"午餐券.html"}]}]}]}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "tplb_img":"",
