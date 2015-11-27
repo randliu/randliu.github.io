@@ -11,6 +11,13 @@
 **OA**,  <http://58.42.231.231:8001/seeyon/index.jsp>
 `注：用户名是自己名字的全拼`
 
+***HLCGROUP** <http://58.42.231.231:7000/templates/index/hrlogon.jsp>
+
+`username :jt+指纹号
+passwd :身份证号码`
+
+
+
 ###SVN,
 **Web浏览**,<http://120.24.174.247:10111/svn>
 **svn客户端（目前没修改端口），svn://120.24.174.247
