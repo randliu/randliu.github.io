@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"支付.html",
-  "generationDate":new Date(1448450538112.94),
+  "generationDate":new Date(1448611752496.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"就餐主页（集团员工）.html",
-  "generationDate":new Date(1448450536811.86),
+  "generationDate":new Date(1448611751188.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

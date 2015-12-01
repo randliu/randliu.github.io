@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"产品架构图.html",
-  "generationDate":new Date(1448450535475.79),
+  "generationDate":new Date(1448611749840.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",
@@ -149,8 +149,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":605,
-              "y":313},
+              "x":600,
+              "y":310},
             "size":{
               "width":100,
               "height":50}},
@@ -165,8 +165,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":605,
-                  "y":313},
+                  "x":600,
+                  "y":310},
                 "size":{
                   "width":100,
                   "height":50}},
@@ -975,7 +975,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":400,
+              "x":370,
               "y":310},
             "size":{
               "width":100,
@@ -991,7 +991,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
+                  "x":370,
                   "y":310},
                 "size":{
                   "width":100,
@@ -1107,7 +1107,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":456,
+              "x":429,
               "y":358}},
           "adaptiveStyles":{
 },
@@ -1120,7 +1120,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":456,
+                  "x":429,
                   "y":358}},
               "adaptiveStyles":{
 }}]},
@@ -1132,8 +1132,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":455,
-              "y":358}},
+              "x":428,
+              "y":359}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1145,8 +1145,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":455,
-                  "y":358}},
+                  "x":428,
+                  "y":359}},
               "adaptiveStyles":{
 }}]},
 {
@@ -1172,6 +1172,362 @@
                 "location":{
                   "x":280,
                   "y":360}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"844cc248428549ceb6ec3114838d5e3f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":490,
+              "y":310},
+            "size":{
+              "width":100,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"44dda9963763467197ef0130c31bcec4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":490,
+                  "y":310},
+                "size":{
+                  "width":100,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u4.png"}},
+{
+          "id":"25f3578810b4426fa9f2ef106fc8558b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":460,
+              "y":479},
+            "size":{
+              "width":80,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"132f05316dc247a48dc2f4e6cf795d55",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":460,
+                  "y":479},
+                "size":{
+                  "width":80,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u36.png"}},
+{
+          "id":"6ed0353272c740ec8689fb5bfcd6c067",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":478},
+            "size":{
+              "width":90,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7751c3c0771649289cb70add6005d99c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":550,
+                  "y":478},
+                "size":{
+                  "width":90,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u42.png"}},
+{
+          "id":"0165b41bcd394a07ac10769b948bfed0",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":360}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d7ae52032f184b7286b6c71c29de8a0a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":550,
+                  "y":360}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"df472e518de142a0a4d289f80ce98587",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":550,
+              "y":360}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"898638b81a7a4f7c8f2aa2017ac027d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":550,
+                  "y":360}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b7df5d8fcf94489e9acbca377377d0c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":89,
+              "y":310},
+            "size":{
+              "width":100,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8139d17708ae4bb0bf39025f72ea7400",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":89,
+                  "y":310},
+                "size":{
+                  "width":100,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u4.png"}},
+{
+          "id":"8c309ebb8f784a358b2a4d295aa4d8bb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":561},
+            "size":{
+              "width":80,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f20bb4cea487409f9f7712c0551ea0ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":561},
+                "size":{
+                  "width":80,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u36.png"}},
+{
+          "id":"b4f6c7307e9b49b389a4bf9e41814a44",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":560},
+            "size":{
+              "width":90,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ae80d7fa1b448bf992f872ae1c6a2df",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":120,
+                  "y":560},
+                "size":{
+                  "width":90,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u42.png"}},
+{
+          "id":"04b5b5a5481c423193634db8aa5023f8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":228,
+              "y":560},
+            "size":{
+              "width":90,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"be18a316355a4c7ab5ef52bf1b010774",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":228,
+                  "y":560},
+                "size":{
+                  "width":90,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品架构图/u42.png"}},
+{
+          "id":"bbabc05136f04662bb7c8b84d8313238",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1e2566f38c6d4a75b82a06366a82c450",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":340}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"1c60efc776b54e438be9c1581f43bfa9",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cca3e8b474c14b059624ca6058a090b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":340}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"71199601af2f4998a4e00535e59a1dba",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbca1a13e63a435d806a6cfc1b824452",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":340}},
               "adaptiveStyles":{
 }}]}]}},
   "masters":{
@@ -1328,4 +1684,52 @@
     "be08c1d8b1a5475488b9a5c9af535648":{
       "scriptId":"u74"},
     "3983301331314043b6012e4ecfa161a9":{
-      "scriptId":"u75"}}});
+      "scriptId":"u75"},
+    "844cc248428549ceb6ec3114838d5e3f":{
+      "scriptId":"u76"},
+    "44dda9963763467197ef0130c31bcec4":{
+      "scriptId":"u77"},
+    "25f3578810b4426fa9f2ef106fc8558b":{
+      "scriptId":"u78"},
+    "132f05316dc247a48dc2f4e6cf795d55":{
+      "scriptId":"u79"},
+    "6ed0353272c740ec8689fb5bfcd6c067":{
+      "scriptId":"u80"},
+    "7751c3c0771649289cb70add6005d99c":{
+      "scriptId":"u81"},
+    "0165b41bcd394a07ac10769b948bfed0":{
+      "scriptId":"u82"},
+    "d7ae52032f184b7286b6c71c29de8a0a":{
+      "scriptId":"u83"},
+    "df472e518de142a0a4d289f80ce98587":{
+      "scriptId":"u84"},
+    "898638b81a7a4f7c8f2aa2017ac027d1":{
+      "scriptId":"u85"},
+    "b7df5d8fcf94489e9acbca377377d0c6":{
+      "scriptId":"u86"},
+    "8139d17708ae4bb0bf39025f72ea7400":{
+      "scriptId":"u87"},
+    "8c309ebb8f784a358b2a4d295aa4d8bb":{
+      "scriptId":"u88"},
+    "f20bb4cea487409f9f7712c0551ea0ed":{
+      "scriptId":"u89"},
+    "b4f6c7307e9b49b389a4bf9e41814a44":{
+      "scriptId":"u90"},
+    "7ae80d7fa1b448bf992f872ae1c6a2df":{
+      "scriptId":"u91"},
+    "04b5b5a5481c423193634db8aa5023f8":{
+      "scriptId":"u92"},
+    "be18a316355a4c7ab5ef52bf1b010774":{
+      "scriptId":"u93"},
+    "bbabc05136f04662bb7c8b84d8313238":{
+      "scriptId":"u94"},
+    "1e2566f38c6d4a75b82a06366a82c450":{
+      "scriptId":"u95"},
+    "1c60efc776b54e438be9c1581f43bfa9":{
+      "scriptId":"u96"},
+    "cca3e8b474c14b059624ca6058a090b5":{
+      "scriptId":"u97"},
+    "71199601af2f4998a4e00535e59a1dba":{
+      "scriptId":"u98"},
+    "dbca1a13e63a435d806a6cfc1b824452":{
+      "scriptId":"u99"}}});

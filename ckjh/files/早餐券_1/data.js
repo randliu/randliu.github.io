@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"早餐券_1.html",
-  "generationDate":new Date(1448450538396.95),
+  "generationDate":new Date(1448611752887.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",
@@ -261,7 +261,7 @@
               "y":100},
             "size":{
               "width":309,
-              "height":360},
+              "height":430},
             "borderFill":{
               "fillType":"solid",
               "color":0xFF999999},
@@ -281,7 +281,7 @@
                   "y":100},
                 "size":{
                   "width":309,
-                  "height":360},
+                  "height":430},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFF999999},
@@ -333,11 +333,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":106,
-              "y":196},
+              "x":65,
+              "y":205},
             "size":{
-              "width":140,
-              "height":133}},
+              "width":225,
+              "height":225}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -349,11 +349,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":106,
-                  "y":196},
+                  "x":65,
+                  "y":205},
                 "size":{
-                  "width":140,
-                  "height":133}},
+                  "width":225,
+                  "height":225}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -379,7 +379,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/券列表/u60_line.png"}},
+            "line~":"images/券列表/u54_line.png"}},
 {
           "id":"b637c6562abf4ee0bfd1d811d95f8e92",
           "label":"",
@@ -389,10 +389,10 @@
           "style":{
             "location":{
               "x":27,
-              "y":348},
+              "y":437},
             "size":{
               "width":305,
-              "height":110},
+              "height":90},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFFFFFFF}},
@@ -408,10 +408,10 @@
               "style":{
                 "location":{
                   "x":27,
-                  "y":348},
+                  "y":437},
                 "size":{
                   "width":305,
-                  "height":110},
+                  "height":90},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFFFFFFF}},
@@ -427,8 +427,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":32,
-              "y":395},
+              "x":33,
+              "y":492},
             "size":{
               "width":229,
               "height":16}},
@@ -443,8 +443,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":32,
-                  "y":395},
+                  "x":33,
+                  "y":492},
                 "size":{
                   "width":229,
                   "height":16}},
@@ -466,8 +466,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":32,
-              "y":364},
+              "x":33,
+              "y":461},
             "size":{
               "width":86,
               "height":16}},
@@ -488,8 +488,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":32,
-                  "y":364},
+                  "x":33,
+                  "y":461},
                 "size":{
                   "width":86,
                   "height":16}},
@@ -505,8 +505,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":86,
-              "y":395},
+              "x":87,
+              "y":492},
             "size":{
               "width":204,
               "height":16}},
@@ -521,8 +521,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":86,
-                  "y":395},
+                  "x":87,
+                  "y":492},
                 "size":{
                   "width":204,
                   "height":16}},
@@ -538,8 +538,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":27,
-              "y":338},
+              "x":25,
+              "y":442},
             "size":{
               "width":305,
               "height":10},
@@ -551,7 +551,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/券列表/u60_line.png"}},
+            "line~":"images/券列表/u54_line.png"}},
 {
           "id":"7efddfd2823a4b559f5ca03403aedaba",
           "label":"",
@@ -715,7 +715,7 @@
           "style":{
             "location":{
               "x":27,
-              "y":100},
+              "y":101},
             "size":{
               "width":305,
               "height":59}},
@@ -729,10 +729,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 生成早餐券",
+                      "description":"在 当前窗口 打开 早餐订单详情",
                       "target":{
                         "targetType":"page",
-                        "url":"生成早餐券.html",
+                        "url":"早餐订单详情.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true}]}},

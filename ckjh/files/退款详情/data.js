@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"退款详情.html",
-  "generationDate":new Date(1448450537403.9),
+  "generationDate":new Date(1448611751816.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

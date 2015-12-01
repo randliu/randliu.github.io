@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"版本记录.html",
-  "generationDate":new Date(1448450534637.74),
+  "generationDate":new Date(1448611748919.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

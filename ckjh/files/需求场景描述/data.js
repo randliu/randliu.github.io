@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"需求场景描述.html",
-  "generationDate":new Date(1448450535229.77),
+  "generationDate":new Date(1448611749555.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

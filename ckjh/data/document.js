@@ -65,9 +65,9 @@
                             "type":"Wireframe",
                             "url":"支付成功.html"},
 {
-                            "pageName":"生成早餐券",
+                            "pageName":"早餐订单详情",
                             "type":"Wireframe",
-                            "url":"生成早餐券.html"}]}]},
+                            "url":"早餐订单详情.html"}]}]},
 {
                     "pageName":"申请退款",
                     "type":"Wireframe",
@@ -87,7 +87,11 @@
 {
                     "pageName":"员工就餐-午餐",
                     "type":"Wireframe",
-                    "url":"员工就餐-午餐.html"}]},
+                    "url":"员工就餐-午餐.html",
+                    "children":[{
+                        "pageName":"午餐券详情",
+                        "type":"Wireframe",
+                        "url":"午餐券详情.html"}]}]},
 {
                 "pageName":"就餐主页（外联人员）",
                 "type":"Wireframe",
@@ -105,9 +109,9 @@
                         "type":"Wireframe",
                         "url":"支付.html"}]},
 {
-                    "pageName":"券列表的",
+                    "pageName":"券列表",
                     "type":"Wireframe",
-                    "url":"券列表的.html",
+                    "url":"券列表_1.html",
                     "children":[{
                         "pageName":"早餐券",
                         "type":"Wireframe",
@@ -115,7 +119,15 @@
 {
                         "pageName":"午餐券",
                         "type":"Wireframe",
-                        "url":"午餐券.html"}]}]}]}]}]},
+                        "url":"午餐券.html",
+                        "children":[{
+                            "pageName":"午餐券详情",
+                            "type":"Wireframe",
+                            "url":"午餐券详情_1.html",
+                            "children":[{
+                                "pageName":"退款详情",
+                                "type":"Wireframe",
+                                "url":"退款详情_1.html"}]}]}]}]}]}]}]},
   "globalVariables":{
     "onloadvariable":"",
     "tplb_img":"",

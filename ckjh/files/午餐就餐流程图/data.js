@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"午餐就餐流程图.html",
-  "generationDate":new Date(1448450536723.86),
+  "generationDate":new Date(1448611751094.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",

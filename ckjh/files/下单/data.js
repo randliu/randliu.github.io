@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"下单.html",
-  "generationDate":new Date(1448450536959.87),
+  "generationDate":new Date(1448611751349.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "tplb_img",
