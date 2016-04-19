@@ -1,0 +1,17007 @@
+﻿$axure.loadCurrentPage({
+  "url":"网超流程更换及外卖团购微店二级页面.html",
+  "generationDate":new Date(1460698750724.66),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fbc712b683c34f6b9234d36988e7c8e4",
+    "type":"Axure:Page",
+    "name":"网超流程更换及外卖团购微店二级页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF363636},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cc749fbec17e414dadc3a1424624d943",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":1662,
+              "y":702},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bbf02b599ab4c1db0d7a7e218a02e1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":1662,
+                  "y":702},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"1cdc890dce4e45d98639f654573dd310",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1669,
+              "y":702},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c237db0b8f50457ab1ac7cdbda9f6ffe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1669,
+                  "y":702},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"25813411ebc5424f9ea17746ea9594c5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":717},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"984c5a3573b94282834c86cd5c8cb432",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":717},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"258f74aff52c424dbe41199c8385e02a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1662,
+              "y":769},
+            "size":{
+              "width":320,
+              "height":852},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"90fd43ec6d4144a88fabaf071009b452",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1662,
+                  "y":769},
+                "size":{
+                  "width":320,
+                  "height":852},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u6.png"}},
+{
+          "id":"8703f6ca9cb248e4bee68d3ca6c7a1a7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1662,
+              "y":1069},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f4602173927d419db52c292681f0118c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1662,
+                  "y":1069},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"1da345206e1d40589f66dee8c5941c62",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1766,
+              "y":1069},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec4e4b2b45fa48cb97fa59f13060b242",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1766,
+                  "y":1069},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"2131e2f70ff349e3adbf394fc6341dd4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1873,
+              "y":1069},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"09a7421f3d1f43d39205300a40c13e1f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1873,
+                  "y":1069},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"f86bb86b001c463698da6dd25dbc38ac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1673,
+              "y":730},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7640a8f930444801920a0c67937637fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1673,
+                  "y":730},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u14.png"}},
+{
+          "id":"4dee33c7445e40f5be3a3b15d983ca4f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1694,
+              "y":726},
+            "size":{
+              "width":248,
+              "height":30},
+            "cornerRadiusTopLeft":"6"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6864031663d242d081d24b0712f47dca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1694,
+                  "y":726},
+                "size":{
+                  "width":248,
+                  "height":30},
+                "cornerRadiusTopLeft":"6"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u16.png"}},
+{
+          "id":"499aa6e2912c4042a4220c2e6bde665c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1952,
+              "y":734},
+            "size":{
+              "width":19,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"02f651f17a1347b0a8cb0d872a4bb2f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1952,
+                  "y":734},
+                "size":{
+                  "width":19,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u18.png"}},
+{
+          "id":"7f2df5a19a1f4589a65d7aa09a56f971",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1962,
+              "y":1081},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d065432556f54933b56b29557ae66b38",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1962,
+                  "y":1081},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"28908a84681149a08dac484f71dc4093",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1849,
+              "y":1084},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d35c19f927148aab3902b71804131ab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1849,
+                  "y":1084},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"ec0a88a552d84b939c64da086da6a29c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1742,
+              "y":1081},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"96a4094190e6430bb498b276b6402283",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1742,
+                  "y":1081},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"fdf017a4c00d47329dec2acaa026b946",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":1096},
+            "size":{
+              "width":320,
+              "height":115}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aa2fa95475d74c66ad60e6e4a14aa7cc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":1096},
+                "size":{
+                  "width":320,
+                  "height":115}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u26.png"}},
+{
+          "id":"1cacce5d2c824bf3b3cc9e16ad34a692",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1670,
+              "y":1108},
+            "size":{
+              "width":84,
+              "height":84}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5a472caa5a934d49a1108de366109b0e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1670,
+                  "y":1108},
+                "size":{
+                  "width":84,
+                  "height":84}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u28.png"}},
+{
+          "id":"299485c8d6ac4da9b0fac570fbac1bd6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1106},
+            "size":{
+              "width":117,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b5c2af3dd1e4411a9d430f263a877b87",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1106},
+                "size":{
+                  "width":117,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f385db8c96c54a3e96098339c975e321",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":1771,
+              "y":1158},
+            "size":{
+              "width":60,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f5d8a5f6e064f378bf7a84ee05973f4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":1771,
+                  "y":1158},
+                "size":{
+                  "width":60,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"febccf267c3148f09cfcfaa62859b1a6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1127},
+            "size":{
+              "width":177,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"53653ed862e24f31a84141b273e52597",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1127},
+                "size":{
+                  "width":177,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ddfaf05fe5644edfa81c34e48a4adb2c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1770,
+              "y":1142},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"948cd7a178bd4743ad359caab542d12d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1770,
+                  "y":1142},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"4d501f98e2b445ba886d8b502c16b035",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1945,
+              "y":1160},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"afad802a86594e8dbcc7649375e99e7a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1945,
+                  "y":1160},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u38.png"}},
+{
+          "id":"215b45ed16e547b8a02707e294494132",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1849,
+              "y":1079},
+            "size":{
+              "width":10,
+              "height":5},
+            "rotation":"180",
+            "textRotation":"180"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"184f249f70cd45569da1263590c8f2fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1849,
+                  "y":1079},
+                "size":{
+                  "width":10,
+                  "height":5},
+                "rotation":"180",
+                "textRotation":"180"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"31f76285a24c402a9ce27d9557183395",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1182},
+            "size":{
+              "width":39,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"deaebce1842b48b89ad85c7fc81f4637",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1182},
+                "size":{
+                  "width":39,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c58febe509b241118a13bf90c6a2fb93",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1184},
+            "size":{
+              "width":48,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u44_line.png"}},
+{
+          "id":"ddfbe9f2fb1d4651a713157d74b974ea",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1662,
+              "y":770},
+            "size":{
+              "width":320,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bd8ed8fd5aa4a48ba07e8fdae074932",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1662,
+                  "y":770},
+                "size":{
+                  "width":320,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u45.png"}},
+{
+          "id":"dd36103f97f149a094164ab85176a53d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1662,
+              "y":911},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1ec6f32755f041afb92817fdccc0d8f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1662,
+                  "y":911},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"624a279c058a4fa09fb3d693dafdb476",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1742,
+              "y":911},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cc4b7668dcef4b98b7a9639fbaca1f69",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1742,
+                  "y":911},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"497a6ebed8b24504b2f713477c351c12",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1822,
+              "y":911},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7c79bca46c364754bd8c964b1a0ff0ff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1822,
+                  "y":911},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"2d5b20e403f34238bb43d463088751ae",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1902,
+              "y":911},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b3cb00e724f349768a55b5e82dc1df9e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1902,
+                  "y":911},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"63c450b5d725420696afd8f523432b0f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1662,
+              "y":990},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b402fae5668484c933176f0afc4d73e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1662,
+                  "y":990},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"f35e78ccf80741e6b5609bcb56a94b88",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1742,
+              "y":990},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"688047bcca84454c9745aa5106aad323",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1742,
+                  "y":990},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"6e9929cb409c40b39fd937b64d9c3455",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1822,
+              "y":990},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e202e971b8b24f74a38cc2e82f981977",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1822,
+                  "y":990},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"4007a59293664e68b4d5b1021ea98b20",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1902,
+              "y":990},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e292b6e655146dcb00559614772ad72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1902,
+                  "y":990},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"53c160a6fe524dc5b0275ad603054be9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":2624,
+              "y":708},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"efab8fe0b07d40c285e62f034389104c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":2624,
+                  "y":708},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"c9f948cf92b14cf3b4886de7f6106e4b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2631,
+              "y":708},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c24cd3b07498423fb428e1f48730fbb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2631,
+                  "y":708},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"c83c9d3b87ad4d4291bc3387c748fa80",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2624,
+              "y":723},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1934e0f85b564b0dbedb5a67c7497475",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2624,
+                  "y":723},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"8ec72a852fc144398df4c1831adf0f83",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2624,
+              "y":775},
+            "size":{
+              "width":320,
+              "height":802},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24b87cdbd958437591bfd185ff8d806e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2624,
+                  "y":775},
+                "size":{
+                  "width":320,
+                  "height":802},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u69.png"}},
+{
+          "id":"e22113ef99ae4725b62940ec3c7615c6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2635,
+              "y":736},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40799acd05644e95a4fcf6131282506f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2635,
+                  "y":736},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u14.png"}},
+{
+          "id":"dcfbf4adaea24487a072e0d098b6907f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2656,
+              "y":732},
+            "size":{
+              "width":248,
+              "height":30},
+            "cornerRadiusTopLeft":"6"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"367eab7254194a0da81cccd5c9357ed1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2656,
+                  "y":732},
+                "size":{
+                  "width":248,
+                  "height":30},
+                "cornerRadiusTopLeft":"6"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u16.png"}},
+{
+          "id":"8ea392d87864497b9fdff61613dc4ac8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2914,
+              "y":740},
+            "size":{
+              "width":19,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b103a41784744cfbdc757f69f862b91",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2914,
+                  "y":740},
+                "size":{
+                  "width":19,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u18.png"}},
+{
+          "id":"2416bc0c78854ee7b59b0779d73062cd",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2624,
+              "y":776},
+            "size":{
+              "width":320,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7001b844114c4c9eb56419242cc1f4e6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2624,
+                  "y":776},
+                "size":{
+                  "width":320,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u45.png"}},
+{
+          "id":"d0c9e4de95df4cd39201fb233edd148a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2624,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7924f961f1624013829446a1846efc91",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2624,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"725da515812948169ae381d2cb17acf5",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2704,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"04dbfff36e384f458619a3e52155876a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2704,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"986619be1b0b4886a93319155d6a7c97",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2784,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d9b300085c34d35b7d4bcb77e9f0dd3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2784,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"9818d9d75a5e4a71ae806c5916353019",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2864,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"975fbf1a3a054680a1fd89ff3f899775",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2864,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"91e8d50488a54050af65f7eef31a0c91",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2624,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2477abc96f6a44ccb3a5e14156927441",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2624,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"7504717b3a5945299f73c1f72ceb96a8",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2704,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1cbbbfa83a66468fb277fb98253cf503",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2704,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"90ee845ed6e14273a72a5a8c0a46f21d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2784,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"07196a59361c433cafa35ffcb31ea9ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2784,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"14f1db6bc6694c47b27a65d40847d9e4",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2864,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d024f19da1aa4bccb4470263de6d7e14",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2864,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"4b29b36209ea4f09b6e5123268121008",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":2994,
+              "y":708},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7355bace4a174f919f2bd846527174da",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":2994,
+                  "y":708},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"f2c54b3a851a4e7c8a50d4d2eb12c2d7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3001,
+              "y":708},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f69de315bd54e6babbe55dd8d7e6fc9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3001,
+                  "y":708},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"a9eaf54752794b4aa2032d1c5d6e9800",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2994,
+              "y":723},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c855c5b387a4ba2a6fee927b35d0ed3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2994,
+                  "y":723},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"e49b1a172feb4a69b8ec42a4eb3c34c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2994,
+              "y":775},
+            "size":{
+              "width":320,
+              "height":802},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f725ce3940254634bea99dde2c04f476",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2994,
+                  "y":775},
+                "size":{
+                  "width":320,
+                  "height":802},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u69.png"}},
+{
+          "id":"fcade7883a6c4e6998146ef8b998aade",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3005,
+              "y":736},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"72d8dcd22c5d4b62a657669795f6de31",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3005,
+                  "y":736},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u14.png"}},
+{
+          "id":"f35e8c37b5f847f296f07f8979ed1580",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3026,
+              "y":732},
+            "size":{
+              "width":248,
+              "height":30},
+            "cornerRadiusTopLeft":"6"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f21129a1eb71484c88c451f48690ea81",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3026,
+                  "y":732},
+                "size":{
+                  "width":248,
+                  "height":30},
+                "cornerRadiusTopLeft":"6"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u16.png"}},
+{
+          "id":"a97f353fa3104979973cf78e065afc00",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3284,
+              "y":740},
+            "size":{
+              "width":19,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2ce6add02a1246f3901b15cba9388a22",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3284,
+                  "y":740},
+                "size":{
+                  "width":19,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u18.png"}},
+{
+          "id":"b661c850488c4ceb93104b1919ba3875",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":776},
+            "size":{
+              "width":320,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4830889961cd4b76b59260d5c1bca027",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":776},
+                "size":{
+                  "width":320,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u45.png"}},
+{
+          "id":"47f6ac59d19145ebbcc14b4301583cb8",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35eedcc399204dfc8735ec82ce5e28f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"7211c1ea639245cbb266be13bcd09331",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3074,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"17fbefec016941a1b026b9f883eff26d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3074,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"8f86bf7543194989bb843ade6364388e",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3154,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"508cd6798a184fc49f9f0bcc31fa2aaf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3154,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"520ae37d1bad48e0b174a13de776ce29",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3234,
+              "y":917},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"756f96e40f1346a693c0ea6bb69ad8a9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3234,
+                  "y":917},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"9423e33e651145679b4a48f72ee5a0e1",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c267211e6778449bb6f13e8b8a2f78e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"9363c3a616294357a6a542cc4bd3118f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3074,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f345b54f40f84caf9c315e50cb6785a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3074,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"ff1297e0d72b4802a572d3512825b203",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3154,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6fc82bd8abe44999a67340492a103d1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3154,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"a63b886d02f54a9f97c1909932170721",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3234,
+              "y":996},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f0c872090c743e08c99b26d96f7a413",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3234,
+                  "y":996},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"3b722eb41fa34b18969e37253e8e69ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":3354,
+              "y":708},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b2df27e9a9f491f917a6d5fbebb3e4b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":3354,
+                  "y":708},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"9eeb98a23c5f4c09a0c5f07bdb87e47d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3361,
+              "y":708},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb11a8b41aba467f866c1f04f863e733",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3361,
+                  "y":708},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"6a71d3a4d817405eafb80507ab2ac2a4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3354,
+              "y":723},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e181713a8132403eb22bef5321bfed28",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3354,
+                  "y":723},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"a7b87ad8cb8e4aaa8f3d6599c5d5b2c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3354,
+              "y":775},
+            "size":{
+              "width":320,
+              "height":802},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c353609c179649518231b6ccb05ff1e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3354,
+                  "y":775},
+                "size":{
+                  "width":320,
+                  "height":802},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u69.png"}},
+{
+          "id":"d9eab50c1b0343ddbd65e0772082b849",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3365,
+              "y":736},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35c3e600c03c4ce0baf4aded4a69fc95",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3365,
+                  "y":736},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u14.png"}},
+{
+          "id":"1039e038b77f4e3f93f3e1dfcdc3e8f4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3386,
+              "y":732},
+            "size":{
+              "width":248,
+              "height":30},
+            "cornerRadiusTopLeft":"6"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"854b12a7328d4fce8d55ea6f5be5a02a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3386,
+                  "y":732},
+                "size":{
+                  "width":248,
+                  "height":30},
+                "cornerRadiusTopLeft":"6"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u16.png"}},
+{
+          "id":"a9b471d94c2e4f2e9056e376a08b2e66",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3644,
+              "y":740},
+            "size":{
+              "width":19,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"982f948654994c62b420ec0488959f85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3644,
+                  "y":740},
+                "size":{
+                  "width":19,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u18.png"}},
+{
+          "id":"b1285a7c76334478bf03e2ef73186b94",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":3354,
+              "y":776},
+            "size":{
+              "width":320,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24405806cd8e4edc87e61b8f1e881930",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":3354,
+                  "y":776},
+                "size":{
+                  "width":320,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u45.png"}},
+{
+          "id":"6c44bbc44762477ebf4c141b331e5822",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1788,
+              "y":1143},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"28301ec340a24e0bb839afb8bebd4e07",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1788,
+                  "y":1143},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"dda38cfdb7734824a3f389827a48e833",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":1210},
+            "size":{
+              "width":320,
+              "height":115}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d66abdc9ed264a279bd04f08c612c296",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":1210},
+                "size":{
+                  "width":320,
+                  "height":115}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u26.png"}},
+{
+          "id":"eb4b3b1e9a0145fb98de5df854624923",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1670,
+              "y":1222},
+            "size":{
+              "width":84,
+              "height":84}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6c68c72398f47c1ae024e848c33dd81",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1670,
+                  "y":1222},
+                "size":{
+                  "width":84,
+                  "height":84}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u28.png"}},
+{
+          "id":"85dcbb81ef23404f8d2c3a2d6ec9ad6a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1220},
+            "size":{
+              "width":117,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"44494c5498e344b89baf0add4bf9ad39",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1220},
+                "size":{
+                  "width":117,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6b9bc05320f4490887714f82914d33dd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":1771,
+              "y":1272},
+            "size":{
+              "width":60,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb544843d689409591ef7416b29e05a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":1771,
+                  "y":1272},
+                "size":{
+                  "width":60,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6a1357be2c84448d856743a8606f5ddd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1241},
+            "size":{
+              "width":177,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d1ad693989964cdb9353662da9c26146",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1241},
+                "size":{
+                  "width":177,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"56fe74cd629a4f51b2d86a29aa23840b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1770,
+              "y":1256},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"68f0cab241bd43349f935e5fe0860a1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1770,
+                  "y":1256},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"2683f03a86a64e8683f0c1bca7b6186c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1945,
+              "y":1274},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9737fc4225fb4b70b19b7fdca3981cfe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1945,
+                  "y":1274},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u38.png"}},
+{
+          "id":"91fbd256c0a84f9baff0e83e15e9f28a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1296},
+            "size":{
+              "width":39,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2aa4cd1827b482f962e97a411191fbb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1296},
+                "size":{
+                  "width":39,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"774d31e191984f2caea03e0cc2c56cc6",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1298},
+            "size":{
+              "width":48,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u44_line.png"}},
+{
+          "id":"b0dbade0e7d94a9dbd83b29d9b7ea543",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1788,
+              "y":1257},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"38710449dc574b67a9a1cb799218a97a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1788,
+                  "y":1257},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"afffb3c349d24767a88f91091720e467",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":1324},
+            "size":{
+              "width":320,
+              "height":115}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6a8cc2b7552b42a2ab54982715b216a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":1324},
+                "size":{
+                  "width":320,
+                  "height":115}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u26.png"}},
+{
+          "id":"2a0ac385f2ef4664b95bc7984fe32c1c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1670,
+              "y":1336},
+            "size":{
+              "width":84,
+              "height":84}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"52587eb685d24bf88ae3eb7fdfb06154",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1670,
+                  "y":1336},
+                "size":{
+                  "width":84,
+                  "height":84}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u28.png"}},
+{
+          "id":"24d6503ed4dc4df7b22baa1d26f1be4c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1334},
+            "size":{
+              "width":117,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"78c58a69c9e54ddc8196afec2816e3d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1334},
+                "size":{
+                  "width":117,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d41da9c624834198a1bc4eb2d192bceb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":1771,
+              "y":1386},
+            "size":{
+              "width":60,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b7b3a450f82c4f7faac36b9846b659b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":1771,
+                  "y":1386},
+                "size":{
+                  "width":60,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"167797e4a7224363acd30a46fcec66d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1355},
+            "size":{
+              "width":177,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ce8c2316aa994f3a9138376858e5534a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1355},
+                "size":{
+                  "width":177,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"41ead413ec0a4c9c9ac4940fb6378ccb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1770,
+              "y":1370},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cca5ff3d024f48caba124e60f6761cd4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1770,
+                  "y":1370},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"461eebb07407471e953a38a98df0772e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1945,
+              "y":1388},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e17ea03f44484d9bbf27bd170a782cae",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1945,
+                  "y":1388},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u38.png"}},
+{
+          "id":"cb2f8aa66456496692513d891e3025ed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1410},
+            "size":{
+              "width":39,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"65979f8b88cb473487013d8cca28c8b4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1410},
+                "size":{
+                  "width":39,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c9ef3211063743b99b43eb3d6b98973a",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1412},
+            "size":{
+              "width":48,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u44_line.png"}},
+{
+          "id":"1a06456288d7463ea3a3318238958c47",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1788,
+              "y":1371},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"007a3a73ff384980b3110c58633ca563",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1788,
+                  "y":1371},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"bbf98aae66494a149f9722f60fb54199",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":1439},
+            "size":{
+              "width":320,
+              "height":115}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ca658bb41cfd436b97bd1938894ee274",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":1439},
+                "size":{
+                  "width":320,
+                  "height":115}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u26.png"}},
+{
+          "id":"49ac958b7444468dbab19fbf98a82c79",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1670,
+              "y":1451},
+            "size":{
+              "width":84,
+              "height":84}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5e05f43d91c84d6d957e7d2fc3818b5e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1670,
+                  "y":1451},
+                "size":{
+                  "width":84,
+                  "height":84}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u28.png"}},
+{
+          "id":"6b8cd89e53b2458494fc3c849c9b986d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1449},
+            "size":{
+              "width":117,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c6f77abcd534b05860e4be411566657",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1449},
+                "size":{
+                  "width":117,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b560756febcf4d7e85d3e8679e3c7962",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1E1E1E,
+              "opacity":1},
+            "location":{
+              "x":1771,
+              "y":1501},
+            "size":{
+              "width":60,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"182ed641e8e942a3b66011d8b37a9c72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1E1E1E,
+                  "opacity":1},
+                "location":{
+                  "x":1771,
+                  "y":1501},
+                "size":{
+                  "width":60,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"150fd81c9dd94bb5a1aefa4bace817ef",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1470},
+            "size":{
+              "width":177,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"175e1e2f0e474c158410062609cb6d61",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1470},
+                "size":{
+                  "width":177,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c7889c91abf440509518f4c876581b1a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1770,
+              "y":1485},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e9651d9ce2024042a60edc1f3b52195e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1770,
+                  "y":1485},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"fd68a3adb61e4331804fe8af978170ac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1945,
+              "y":1503},
+            "size":{
+              "width":22,
+              "height":22},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"05c2fdbb91064a699bb4a0c3d6d1d110",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1945,
+                  "y":1503},
+                "size":{
+                  "width":22,
+                  "height":22},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u38.png"}},
+{
+          "id":"2cfba6c4dd9b411ba820a8e7b362f156",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1525},
+            "size":{
+              "width":39,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea6bdee60fb143499818f051e535c4d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1771,
+                  "y":1525},
+                "size":{
+                  "width":39,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5da31a7f145542939380b0948130dc0c",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1771,
+              "y":1527},
+            "size":{
+              "width":48,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u44_line.png"}},
+{
+          "id":"0622eadff12142e99e3b83165285c3f5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1788,
+              "y":1486},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c565be8a844d4d6aaba268ce68a0f4da",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1788,
+                  "y":1486},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"291290cb81a5460b80acc7d82fb4c943",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2624,
+              "y":1075},
+            "size":{
+              "width":107,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cf08c602dff4708bffa43ba858bf106",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2624,
+                  "y":1075},
+                "size":{
+                  "width":107,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u202.png"}},
+{
+          "id":"903097c79c574d26b680b541204d8f3d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2728,
+              "y":1075},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c14710a6333d44bfa7afd6988699d0dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2728,
+                  "y":1075},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示/隐藏部件",
+                      "objectsToFades":[]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"24ab63d5b859494a919a12aeb3fe30e1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2835,
+              "y":1075},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aac9f2b4ec064722ae28edfebb3935bb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2835,
+                  "y":1075},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"6e9029f4284846b1991a4ecd58a0d7d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2922,
+              "y":1087},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62d2aa0e7bb14a0f877c7e358a95a16c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2922,
+                  "y":1087},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"a30ab7240bc94a14afb63014e6c7d558",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2814,
+              "y":1087},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c61ec8d8b12343beb1281b41adfcbcff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2814,
+                  "y":1087},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"6ef5f572529c408fb402b552b5b27385",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1087},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bed6fd3283df4cd59d01b473f37222b0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1087},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"d01f117488b34b3abb66cff16b147d1c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2624,
+              "y":1102},
+            "size":{
+              "width":320,
+              "height":110},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5f15c7e126604fc2bc12fe6fa0968c00",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2624,
+                  "y":1102},
+                "size":{
+                  "width":320,
+                  "height":110},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u214.png"}},
+{
+          "id":"c405189dad8c4dc7ae1252f630b7e4c6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2634,
+              "y":1116},
+            "size":{
+              "width":60,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4c2118c9537645468880a87216f85e7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2634,
+                  "y":1116},
+                "size":{
+                  "width":60,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u216.png"}},
+{
+          "id":"1fe20bc1e5dc4b28837ad05c9345fc3c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1116},
+            "size":{
+              "width":126,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6be5ce2fe17e49ff9710fa871e9ac15d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1116},
+                "size":{
+                  "width":126,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8c2fc339e49b4e30adba18c175416226",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2890,
+              "y":1149},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"49067ab7ac314ae68da3d99a5e7a1b99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2890,
+                  "y":1149},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8b57b67afde748d4bc61ad6f933370f3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1176},
+            "size":{
+              "width":51,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ce4e8af87794e9fa07c1bf04f2510cd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1176},
+                "size":{
+                  "width":51,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e497d98c041e494c9de05944f3c47c3d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1148},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0f89f08e7565401784e7e1f28ce46e8c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1148},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"445e1e3b3fb64973b5dedee47a551f66",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2721,
+              "y":1148},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b89493c9baf438ba2e8308e97d96eb5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2721,
+                  "y":1148},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"48c5225583cd4aa49d4411613e2171bf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2738,
+              "y":1148},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec7e9cc181474907a83adddfe254b5d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2738,
+                  "y":1148},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"587648a177d6496e8fc399f8cc175dd1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2755,
+              "y":1148},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a8b41284479145369fdd9c360f399c37",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2755,
+                  "y":1148},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"c814a8da65a74b0b8c67924acaa4183e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2774,
+              "y":1148},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d6814562c25c49e684752c8cc19e212a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2774,
+                  "y":1148},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"9e6959de3cbd4427a76a032ba70972b1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2624,
+              "y":1211},
+            "size":{
+              "width":320,
+              "height":110},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"22551fb89f92411e86d7c327fe2af29e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2624,
+                  "y":1211},
+                "size":{
+                  "width":320,
+                  "height":110},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u214.png"}},
+{
+          "id":"96dfe80d61504f55813c93e87557c413",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2634,
+              "y":1229},
+            "size":{
+              "width":60,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb186d9409a74ad0b5550b5ee13566bd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2634,
+                  "y":1229},
+                "size":{
+                  "width":60,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u216.png"}},
+{
+          "id":"c12290012ceb43e3b298280168aa6e9e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1225},
+            "size":{
+              "width":126,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc467d205c584eddbe10a9578d0d8f80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1225},
+                "size":{
+                  "width":126,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5ae46513d2274fb486971bd35b20d25a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2890,
+              "y":1258},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0e15836d99834e4c98660bfae2c720c3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2890,
+                  "y":1258},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ad6fd1f1e68a4143892d2435bac9f160",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1285},
+            "size":{
+              "width":51,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5fa94bfccd95415e9f5263192d82dfc0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1285},
+                "size":{
+                  "width":51,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"60a709107e214a2e915a28c8db1aa324",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2704,
+              "y":1257},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a72e95eb3929408592469795a35dc31f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2704,
+                  "y":1257},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"e809c8b5d2a449c3836a9c75adc7ca84",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2721,
+              "y":1257},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12a66cc3fe4841f094919ac84e81d8ba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2721,
+                  "y":1257},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"21ca0cca2edd4ba8aacdf38150eff349",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2738,
+              "y":1257},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c405062d9b674f4598a9bd6fc0726a62",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2738,
+                  "y":1257},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"28874cd48131448d85fca454362c1ef6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2755,
+              "y":1257},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa218854a78a49c98315664504284eb4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2755,
+                  "y":1257},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"e85468ac4a034d46957ca2152c1eb174",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2774,
+              "y":1257},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3b0caa300bea4249a6916f5f005fbb4f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2774,
+                  "y":1257},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"cd9cbed57945421bbe12dbc63af2d9d8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":2683,
+              "y":1107},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d017b16371614980ae7b3dcf0497ee61",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":2683,
+                  "y":1107},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"ad3fa74194bb4914ad184953e2364aab",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":2683,
+              "y":1220},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4132de4ebd94467e9d92e45440d9fbbb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":2683,
+                  "y":1220},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"827593eba33a485ba18780cfd0edb075",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":2994,
+              "y":1076},
+            "size":{
+              "width":108,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4a63f7049ffc454498a84896f5af4338",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":2994,
+                  "y":1076},
+                "size":{
+                  "width":108,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u258.png"}},
+{
+          "id":"232910527043418fba7b068c4d19aa25",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3099,
+              "y":1076},
+            "size":{
+              "width":108,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"96da5d14930b4ce7b3db191e35c7c198",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3099,
+                  "y":1076},
+                "size":{
+                  "width":108,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u258.png"}},
+{
+          "id":"52099317e14c49ee9901d67801c8959c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3206,
+              "y":1076},
+            "size":{
+              "width":108,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d9c36ea054a84868acce9a8617524de9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3206,
+                  "y":1076},
+                "size":{
+                  "width":108,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u258.png"}},
+{
+          "id":"2fc06904c17244078022601e69b6a769",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3291,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"32bc73c6be214edfa72d85eaa5dea9f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3291,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"a91404f87d644c1489ed85079a5fd937",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3181,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"16a6e47f9e1f487a97a4e98d00071ec3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3181,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"57b8780e4aad41ada1d74d276eb088f4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3080,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"43e9a01e876f4472b8045dad9f3597bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3080,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"0623d8e9fa8340ec8e0ba29fe70bade0",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":1103},
+            "size":{
+              "width":320,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e3d10eaeed0478cb1e0fd99dabeb607",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":1103},
+                "size":{
+                  "width":320,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u270.png"}},
+{
+          "id":"60caf514cf054c84a747aed3b72150a5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1205},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bc565cbef3f4ec5a84fd9737fac8bfe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1205},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7bbc0faa2caf41468035033bc249ddfa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1231},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6abec27328de471d80fbfa9bc39ed1e2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1231},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9f7ebe57ed044f68839a2a637db05d95",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3249,
+              "y":1207},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"316f771d4a2a49748f294746e5d2fa46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3249,
+                  "y":1207},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"95ecad4619754345959cfff7839f43b8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3261,
+              "y":1207},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"92c08b6d39b24a8f8a0b80c49689a777",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3261,
+                  "y":1207},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"8be534e8c4b04142977beed9f6799440",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3272,
+              "y":1207},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8cd7d735520f4fc087b3c4a8fc8b3de1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3272,
+                  "y":1207},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"4e2ff1188ccc4ee0bdd246383f6aa87d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3284,
+              "y":1207},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8cc2c96e43ca4b88b0519996f1002213",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3284,
+                  "y":1207},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"fef60df19d614aca912e92672cfc73e0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3297,
+              "y":1207},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"884e8f2a23a945d68929368d8c75d05d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3297,
+                  "y":1207},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"c29a8125fc384cfe9c6b916273c8bfd2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1221},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b07bae7438f64bbb87237b253073e9e8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1221},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cef347a8a83249d29f06b3906be84abc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3216,
+              "y":1197},
+            "size":{
+              "width":8,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c9f4ba8fc1a4ab6965dca4b246e6369",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3216,
+                  "y":1197},
+                "size":{
+                  "width":8,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a66b1402f45849b8b147048cd2bc53c5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3354,
+              "y":1076},
+            "size":{
+              "width":107,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e53520ee1a542f7b3f83164f643a59b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3354,
+                  "y":1076},
+                "size":{
+                  "width":107,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u202.png"}},
+{
+          "id":"c8f47873336f4547b088149c7c62435e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3458,
+              "y":1076},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"06e758ad669f4a85a20fd7785a7cbb0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3458,
+                  "y":1076},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示/隐藏部件",
+                      "objectsToFades":[]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"98b8d506971649a693dc97b960d71a65",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3565,
+              "y":1076},
+            "size":{
+              "width":109,
+              "height":28},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"44a252375ba44c1fb5b82deba378a024",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3565,
+                  "y":1076},
+                "size":{
+                  "width":109,
+                  "height":28},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u8.png"}},
+{
+          "id":"4e5b0c7496d74613aa95d877eeb99d2e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3652,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff00d350fa3547549fbfc81eb3133121",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3652,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"d5cc3f2e41bf4c8cb17a66ae65b40cce",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3544,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0150a88b0dd44bdf824420fc1e59b5cc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3544,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"2bec6b9f351f40c0985b56d2fa4bb545",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1088},
+            "size":{
+              "width":10,
+              "height":5}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2132caa073cf4c44a5d817559a0013fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1088},
+                "size":{
+                  "width":10,
+                  "height":5}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u20.png"}},
+{
+          "id":"cc5f50a65d54471996a5e447af2f17d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3354,
+              "y":1103},
+            "size":{
+              "width":320,
+              "height":110},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc945c4343c84f188f8bce24104ff376",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3354,
+                  "y":1103},
+                "size":{
+                  "width":320,
+                  "height":110},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u214.png"}},
+{
+          "id":"45e5f7e6309247dd95b6a502b63a454a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3364,
+              "y":1117},
+            "size":{
+              "width":60,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a0e6ada41131475f890c409f7fe76989",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3364,
+                  "y":1117},
+                "size":{
+                  "width":60,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u216.png"}},
+{
+          "id":"d829197fb2ec4779b807fee6173d2674",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1117},
+            "size":{
+              "width":126,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5a9b4b06fc304b09a27dabd4a832878a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1117},
+                "size":{
+                  "width":126,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"aba8f7c191af4b509bfe42e09007892c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3620,
+              "y":1150},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c4f2a06622c74691874a6c8774ffb610",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3620,
+                  "y":1150},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d68d0c1baf83474e9e5e3a297438350f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1177},
+            "size":{
+              "width":51,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7737562b21f640fd89cf802ae1dedcf5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1177},
+                "size":{
+                  "width":51,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"437cedc522cb47348d41b32b5a6f548f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1149},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe0157f43fea4b1b936bdf5543303f8e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1149},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"beb4c22469cb469bb3576300dcca4e08",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3451,
+              "y":1149},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7b2d6bb6160e4fd49fcd98c06537d2cf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3451,
+                  "y":1149},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"49f617648cdf4a6bbb9d6c9d538f06d7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3468,
+              "y":1149},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aae2985d601e42159f353054378ae6d4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3468,
+                  "y":1149},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"3c3688b922e64555ba30bc0654f1497b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3485,
+              "y":1149},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc6934bb76c14a99bd209502f1363148",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3485,
+                  "y":1149},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"3c66665df06a4625b75f052c07244ea8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3504,
+              "y":1149},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d43ad8570a644385a913dd1a94e2803a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3504,
+                  "y":1149},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"6cfcf717a671454d8e45689109531dd4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":3354,
+              "y":1212},
+            "size":{
+              "width":320,
+              "height":110},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"136df12b4ccd493cb38430f4e2c5e6a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":3354,
+                  "y":1212},
+                "size":{
+                  "width":320,
+                  "height":110},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u214.png"}},
+{
+          "id":"8007143a635b400a8502c37bba4dcad7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3364,
+              "y":1230},
+            "size":{
+              "width":60,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c5c3a16fb17d43a0a8a4de555f1638af",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3364,
+                  "y":1230},
+                "size":{
+                  "width":60,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u216.png"}},
+{
+          "id":"289a723ad2874a43a0f3e5d4c488100f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1226},
+            "size":{
+              "width":126,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"84c4640ef0764c9db5969cbbf2a5b219",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1226},
+                "size":{
+                  "width":126,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f8eb49b4258b44ebb9165f0242eeb70b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3620,
+              "y":1259},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"405946caf6b9488e8a902494099cd221",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3620,
+                  "y":1259},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"38c6e5b7954a427d9e12f258c9fb47a5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1286},
+            "size":{
+              "width":51,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59d6f74cab344eab8fdefdaacf138d6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1286},
+                "size":{
+                  "width":51,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a268f4fd96ce44bfa61dc5b75e60ba11",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3434,
+              "y":1258},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e57bf5b45abd4861870aa878561123fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3434,
+                  "y":1258},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"1862c89ae6554485ae942b6ea272a2c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3451,
+              "y":1258},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ddbdfce775b4956b2372355ac0ae4ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3451,
+                  "y":1258},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"c98e98df559a44039abf6357c8b8f85e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3468,
+              "y":1258},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7888bb0d5e6d40aca508163c97a90fea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3468,
+                  "y":1258},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"2f95ef52bcdb4733bc743f1e9125519c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3485,
+              "y":1258},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"51afee515e814bf0a96aa9514631baaf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3485,
+                  "y":1258},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"693c29e21b7d4cddb928e15fe7225293",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3504,
+              "y":1258},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"19fe2212d2ea44b3a01acb62c34838b2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3504,
+                  "y":1258},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"ab2ce498e098471d83f83b67c327d417",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":3413,
+              "y":1108},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"647292a2978e426ca48c529eee8f054d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":3413,
+                  "y":1108},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"019ceb2f76fd48e09322ae2c912e10cf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":3413,
+              "y":1221},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec214666b3774a718bd1cfe019e502fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":3413,
+                  "y":1221},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"29d499b99e674a959d9251f24895d3cc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2920,
+              "y":1169},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"53cdd8ef85a8474b9ac50e007133afdc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2920,
+                  "y":1169},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"24a7bf4394a74882ad129a5c981c3e65",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2922,
+              "y":1285},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eca608cee5794dafb337a4a7558783f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2922,
+                  "y":1285},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"509e717b7b1b45c5ac608cd2293317fa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3650,
+              "y":1169},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"30df08bc0e2949e1b916a6576c0b1514",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3650,
+                  "y":1169},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"7abc38ce3edf4e19b3f85aca82a4a74b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3652,
+              "y":1285},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b4ebd6a39b234fadb9545fc47024a49a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3652,
+                  "y":1285},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"ffb1504ad0b942d7a6cd8fa9f50ae3d4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1237},
+            "size":{
+              "width":33,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c21edc11a3a94c30834fe22e94489b36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1237},
+                "size":{
+                  "width":33,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"af82d977439e4ce7b553c79ceb59f77f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":2994,
+              "y":1104},
+            "size":{
+              "width":320,
+              "height":101}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"db2c9355d4434fc8839ed0ee0805cd57",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":2994,
+                  "y":1104},
+                "size":{
+                  "width":320,
+                  "height":101}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u356.png"}},
+{
+          "id":"2905981b03a34008bf3bae85166b3cd0",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2994,
+              "y":1164},
+            "size":{
+              "width":70,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62b5a8df1ff74a16bc8f75e62e789c86",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2994,
+                  "y":1164},
+                "size":{
+                  "width":70,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u358.png"}},
+{
+          "id":"63f130f6fbf6495c81994d7af38a2708",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":1253},
+            "size":{
+              "width":320,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"13ad285a49094897afe5bb30b27fb005",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":1253},
+                "size":{
+                  "width":320,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u270.png"}},
+{
+          "id":"cb3316fb0e9c48e1a120c7fe16d796c3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1355},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c9b901b038944a2f9a8be4731276d05e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1355},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"03292442cab54ef4b4665996ca2b67d9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1381},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"341519ff19394a8daf3a2ae9876104dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1381},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b1911e68ff0d4040bbfc754ebbe84dff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3249,
+              "y":1357},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c659c858e8fe451aa8773d078eacb03f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3249,
+                  "y":1357},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"cb2aa72dff474a5783a99d7c57199d6c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3261,
+              "y":1357},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e0d9d7679eff494fab394205ba8c8b89",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3261,
+                  "y":1357},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"0ec84f8f8c7244b5895b2403083b83ca",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3272,
+              "y":1357},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5140f9f642da4abfa18860904e3a5a17",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3272,
+                  "y":1357},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"fe0f8035859a4ea5a9aaf6da28ebfbbe",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3284,
+              "y":1357},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dcc1af6aa7cd49b2b400b19c1564d1f8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3284,
+                  "y":1357},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"8584c9c6a7c44938af7b94241bc7d500",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3297,
+              "y":1357},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"859dd68890b047db8dda7d27d91b7f76",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3297,
+                  "y":1357},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"acaa1665c67b452f97b8fe62a3d53e28",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1371},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f3e2e1ce67f34ed7ae0b346af98319ba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1371},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d9cbf392159e4f98ad2b90cb27afc879",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3216,
+              "y":1347},
+            "size":{
+              "width":8,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"195ec7e7d1bf4c9892423bb73baacd58",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3216,
+                  "y":1347},
+                "size":{
+                  "width":8,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"55972c615a92483e890a593f2c73b389",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1387},
+            "size":{
+              "width":33,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"055e08d1b8e5403a87db4c7592ae7a38",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1387},
+                "size":{
+                  "width":33,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"76ca5dc0039e42698f1d6a223cf2b2bf",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":2994,
+              "y":1254},
+            "size":{
+              "width":320,
+              "height":101}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"914764d43d3b45618f7d55e47fc02feb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":2994,
+                  "y":1254},
+                "size":{
+                  "width":320,
+                  "height":101}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u356.png"}},
+{
+          "id":"356e257f216b4e5ebb24b0bd2c6e8f99",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2994,
+              "y":1314},
+            "size":{
+              "width":70,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93e384ed0fa9424eb1f204f3d404193d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2994,
+                  "y":1314},
+                "size":{
+                  "width":70,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u358.png"}},
+{
+          "id":"64739fd143b14f419bc78dbe31bca05a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":2994,
+              "y":1403},
+            "size":{
+              "width":320,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c5541e3e668541f1962c1e4eb7bfa250",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":2994,
+                  "y":1403},
+                "size":{
+                  "width":320,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u270.png"}},
+{
+          "id":"9d4302928ec844a08e0156a7eb95f508",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1505},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f3283a2c6ad45feb279ddab33123942",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1505},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"445c8acb3ccb4b7a849d707ee082732e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3003,
+              "y":1531},
+            "size":{
+              "width":85,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"188e0c1844c34472b69a49847be68033",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3003,
+                  "y":1531},
+                "size":{
+                  "width":85,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5a243a6606eb4b2092a75a9534887a1b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3249,
+              "y":1507},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5abe6b766368422b87a3a04db204134e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3249,
+                  "y":1507},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"c4f217bb0d6e49698cb4c0bfd19d5542",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3261,
+              "y":1507},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a81f268e402467da8dd0d81adca5f40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3261,
+                  "y":1507},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"64e26c994e544f31ba4f57692c01aaff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3272,
+              "y":1507},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1fe34864ebd84659a65ea7ddf78f945f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3272,
+                  "y":1507},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"8c9a621963a64045b0b3248186f73677",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3284,
+              "y":1507},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"de472bb612a24148a7e50e5f13c53f46",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3284,
+                  "y":1507},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"fef10f49356944928a81e8b6423a6aa9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":3297,
+              "y":1507},
+            "size":{
+              "width":11,
+              "height":11},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2fc0edf224464018802be2135d92c46f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":3297,
+                  "y":1507},
+                "size":{
+                  "width":11,
+                  "height":11},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"7f19d32e497b4e2da9be4bb94dd518a1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1521},
+            "size":{
+              "width":27,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3e076564a1024cd582059c545fc24abd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1521},
+                "size":{
+                  "width":27,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e629100f72c0419bb167d960cef75bed",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3216,
+              "y":1497},
+            "size":{
+              "width":8,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f6fd9472ccf4074967ea6329d4c2b8e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3216,
+                  "y":1497},
+                "size":{
+                  "width":8,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"516a6e33d5b14c62b2b8686685f7be11",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"10px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":3276,
+              "y":1537},
+            "size":{
+              "width":33,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"88b0c610b3644b9f9f4e0fee24e365b4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"10px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":3276,
+                  "y":1537},
+                "size":{
+                  "width":33,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"004ffa071b13480685d4997c0ca0469b",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":2994,
+              "y":1404},
+            "size":{
+              "width":320,
+              "height":101}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6ba864e6b73a4d2d960f9683323ff91f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":2994,
+                  "y":1404},
+                "size":{
+                  "width":320,
+                  "height":101}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u356.png"}},
+{
+          "id":"9b31c15d89c044e1bbd5b248d1846eca",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2994,
+              "y":1464},
+            "size":{
+              "width":70,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f04bfcfc1ad5435581a5d2b800562156",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2994,
+                  "y":1464},
+                "size":{
+                  "width":70,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u358.png"}},
+{
+          "id":"c22e18edf7844e12b0b3bca17cb52008",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":2601,
+              "y":1607},
+            "size":{
+              "width":341,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d8ceba83840f40c595d2fa03b39d1f8c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":2601,
+                  "y":1607},
+                "size":{
+                  "width":341,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8251446b6cd842fb956c3eb017281460",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":3354,
+              "y":1606},
+            "size":{
+              "width":366,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3436d3604baf439b8d0c51a73da7d94f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":3354,
+                  "y":1606},
+                "size":{
+                  "width":366,
+                  "height":140}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f754e07edde14ddead37425fbc821a55",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":2977,
+              "y":1606},
+            "size":{
+              "width":366,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"821a51b9e8ea4024be1352cca6d60973",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":2977,
+                  "y":1606},
+                "size":{
+                  "width":366,
+                  "height":140}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"dcc105add804432fabed393239284bb9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":1272,
+              "y":702},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"486a85b847304448b9986cc2bb1436d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":1272,
+                  "y":702},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"49d89a8e1e2c492a878b2b89d5295469",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1279,
+              "y":702},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39e10c46aa2f48568e86126a3c989fa7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1279,
+                  "y":702},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"074b9b7d9be244abae6186a260488f0d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":717},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50327ccfeaae4b4fb2ca82569dab3cde",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1272,
+                  "y":717},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"bc074c1997d649ba86ba0840bb26e909",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1272,
+              "y":769},
+            "size":{
+              "width":320,
+              "height":802},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"033a7afda2ee41fead190b4c6d89a950",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1272,
+                  "y":769},
+                "size":{
+                  "width":320,
+                  "height":802},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u69.png"}},
+{
+          "id":"cf4f4fb6249d4e8fb79a7162a7c0390f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1283,
+              "y":730},
+            "size":{
+              "width":12,
+              "height":20},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1be365340fa04b2d8de44904bd898635",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1283,
+                  "y":730},
+                "size":{
+                  "width":12,
+                  "height":20},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u14.png"}},
+{
+          "id":"10098f00264f4089984dfd34c35da715",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1306,
+              "y":726},
+            "size":{
+              "width":248,
+              "height":30},
+            "cornerRadiusTopLeft":"6"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e55cdca5ba7f463e9db13aea8f48496a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1306,
+                  "y":726},
+                "size":{
+                  "width":248,
+                  "height":30},
+                "cornerRadiusTopLeft":"6"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u16.png"}},
+{
+          "id":"666746380e7c4b9697a2cff9acc20448",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":770},
+            "size":{
+              "width":320,
+              "height":141}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b7de99d14748454b8a30a4abfbeb441f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":770},
+                "size":{
+                  "width":320,
+                  "height":141}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u45.png"}},
+{
+          "id":"15adb37eedea43de84fc229a0ae9b17b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":1062},
+            "size":{
+              "width":320,
+              "height":115},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"82d8c7d22b9347458e6815d2c5a4750f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1272,
+                  "y":1062},
+                "size":{
+                  "width":320,
+                  "height":115},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u432.png"}},
+{
+          "id":"b8f79ee59d634bbd8de973c9baf26b17",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1280,
+              "y":1074},
+            "size":{
+              "width":68,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5c0d7ba9a3d84794b0e6f924a68c102c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1280,
+                  "y":1074},
+                "size":{
+                  "width":68,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u434.png"}},
+{
+          "id":"4567a3ea3e1143c4bb6ea5c6d1c5ad24",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1359,
+              "y":1072},
+            "size":{
+              "width":57,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40f4cc702a7e46ddb1949822c8adf847",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1359,
+                  "y":1072},
+                "size":{
+                  "width":57,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9dc28be6388a468890a77aa10ba02db5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1550,
+              "y":1127},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cde3b7f422784386b79c26a542fc9dc4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1550,
+                  "y":1127},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"9a6a19dc40054ad3bcc9c673b6f969cb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1568,
+              "y":1128},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9b4ff9fedd4c416bac3634ff304e7d8d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1568,
+                  "y":1128},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"d5e742d739e14b1a90cf29ca20d13e20",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1662,
+              "y":1564},
+            "size":{
+              "width":67,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18c6910e4b694ab1ab2f6385ef4f3cc7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1662,
+                  "y":1564},
+                "size":{
+                  "width":67,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u442.png"}},
+{
+          "id":"0bbe7089303a4a6e9f8dbf5ebb8c1d5c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1859,
+              "y":1564},
+            "size":{
+              "width":123,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"646f579b4ea649598e499855ff1f9b85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1859,
+                  "y":1564},
+                "size":{
+                  "width":123,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u444.png"}},
+{
+          "id":"d659cd465d004f23bc735078569166b5",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1786,
+              "y":1564},
+            "size":{
+              "width":73,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"536da030671648f89f0879ee4c086e19",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1786,
+                  "y":1564},
+                "size":{
+                  "width":73,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u446.png"}},
+{
+          "id":"d34f6ae4dfc14c098a9ea44e882c10ee",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":1331,
+              "y":1067},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7b6566de7d94d71b34afb2b695b8190",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":1331,
+                  "y":1067},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"27b32fb254664a1da64b93d162956599",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1352,
+              "y":1140},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"361c03f6a01a4c36b7a3c70c9df3c059",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1352,
+                  "y":1140},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"a365c0d7553f493bad9c188772242692",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1369,
+              "y":1140},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5be33ccc37ef42e8bace6caa7e06ed72",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1369,
+                  "y":1140},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"ef25e69d648b4f3388d69af3948df52f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1386,
+              "y":1140},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c0d74ade3ee4ae2bdfcd7196f1e4cc7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1386,
+                  "y":1140},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"34fbca367b0741a78291ecaa3a871732",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1403,
+              "y":1140},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b81f1c5316c497eace42d68193f62bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1403,
+                  "y":1140},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"9ab8badef7b7435294fa3fe1545a0a89",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1422,
+              "y":1140},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"162c369f511f49d09979f941750d2f8e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1422,
+                  "y":1140},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"2fa604a5885943b5b7e9d5522f00a902",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1536,
+              "y":1143},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d6d8d014cce48d5990bc3d64649bc20",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1536,
+                  "y":1143},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d601417508ca4963ae31a64ec3a6c18e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1359,
+              "y":1098},
+            "size":{
+              "width":99,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c9231418a43f4bbab6e64c5284c503ef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1359,
+                  "y":1098},
+                "size":{
+                  "width":99,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f06321a40a9541c18b99a34c81853e1b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":910},
+            "size":{
+              "width":320,
+              "height":115},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ea5c2d369a3f43e5ad1e35f410178adb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1272,
+                  "y":910},
+                "size":{
+                  "width":320,
+                  "height":115},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u432.png"}},
+{
+          "id":"caece19990c743c6bf60bad522ee108a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1280,
+              "y":922},
+            "size":{
+              "width":61,
+              "height":61}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bdbca6f01ad249d3aed6694cd5199d5b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1280,
+                  "y":922},
+                "size":{
+                  "width":61,
+                  "height":61}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/发现_个人中心/u112.png"}},
+{
+          "id":"d6b2f45fff6f462eaabba23335028d09",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1355,
+              "y":920},
+            "size":{
+              "width":43,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f010befb08eb42a6964b78db75840a3a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1355,
+                  "y":920},
+                "size":{
+                  "width":43,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"41c28b48258641e6b16ca05341fa02f1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1550,
+              "y":975},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e9e3ba783b6c4928a2437e5fb5960fd4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1550,
+                  "y":975},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"83763b5b39454b268cdb8063dd6af3a8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1568,
+              "y":975},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"593942aa687d4d38938a0fdfc10c940d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1568,
+                  "y":975},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"3495cd5ba2464a5b9ec3329633604600",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":1331,
+              "y":915},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff5a91ac0c264e81a6e9943096134b13",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":1331,
+                  "y":915},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"d04229010956433f8d3d19dbdeb4ea2e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1348,
+              "y":988},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b47f7b1002b44764b46690b0b9db9137",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1348,
+                  "y":988},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"a8f79a0b5f984d7489984f231522a708",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1365,
+              "y":988},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f43b1a8c05144475bd4e1b59e06cdce5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1365,
+                  "y":988},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"d45678e3921f4c76bf84edd9818ef890",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1382,
+              "y":988},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d700a33c2b484f5393f6327eb67c0718",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1382,
+                  "y":988},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"b02f45fb22824c93817c2ef1ba0da1be",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1399,
+              "y":988},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4673cf8206fd4fc9a9a6b86797ddeb1c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1399,
+                  "y":988},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u224.png"}},
+{
+          "id":"34ee07169a2b451290ccfb6032e92c82",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1418,
+              "y":988},
+            "size":{
+              "width":16,
+              "height":16},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb13f3523e9e4ed1ac443cfb275e62b2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1418,
+                  "y":988},
+                "size":{
+                  "width":16,
+                  "height":16},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u232.png"}},
+{
+          "id":"fcfb35d9137e4784857402efbcbef53d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1536,
+              "y":991},
+            "size":{
+              "width":46,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"afea0ad0201b4ca498a1f37789c726c2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1536,
+                  "y":991},
+                "size":{
+                  "width":46,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a9ce0f9156f649d4ba52f7031bf62ca9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":1355,
+              "y":941},
+            "size":{
+              "width":141,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1d30088a0e3342fc994ae00281816df8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1355,
+                  "y":941},
+                "size":{
+                  "width":141,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"78df02cc55534bcfadc1e85dddad4a85",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1729,
+              "y":1564},
+            "size":{
+              "width":57,
+              "height":57}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ed65096ee51142d1885d70448f662c52",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1729,
+                  "y":1564},
+                "size":{
+                  "width":57,
+                  "height":57}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u490.png"}},
+{
+          "id":"a8789534bd834918980aad0c9ccc2eae",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":403,
+              "y":743},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0f61e01c023b4768ad9a0489a2d436a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":403,
+                  "y":743},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"9cb7fdf21dcb49d9975bd6034aa2ac5a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":403,
+              "y":884},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"05a2292e771c40b8a7213bb57bcff6ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":403,
+                  "y":884},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"04fa6534b17e463fb0a3bf2573a8e609",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":473,
+              "y":813},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b2ac048494dc43c9a28ad5bcb521f9b8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":473,
+                  "y":813},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b908b40a62ef476680cece13574e9d4d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1532,
+              "y":922},
+            "size":{
+              "width":51,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ded8586d1abe4be78a5b003ba3695668",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1532,
+                  "y":922},
+                "size":{
+                  "width":51,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bb01f0944e7846e7afa4a24d0f6d775b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1537,
+              "y":947},
+            "size":{
+              "width":44,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4369df42406445339ab5fa882912b151",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1537,
+                  "y":947},
+                "size":{
+                  "width":44,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"58ef3b93dcba4ab2919285fff24d2946",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1534,
+              "y":1072},
+            "size":{
+              "width":51,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"54168207eb1a483b98df98019c016620",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1534,
+                  "y":1072},
+                "size":{
+                  "width":51,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fec1c15b04b8497d9622b0a88255522d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1538,
+              "y":1097},
+            "size":{
+              "width":44,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ae927b750a6b42e1b6ddfdee91944d2d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1538,
+                  "y":1097},
+                "size":{
+                  "width":44,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"01ee22d389584ed8872a6c1a87847dd0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1272,
+              "y":1025},
+            "size":{
+              "width":320,
+              "height":37},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"655cde55302a41aea25fa8320180c180",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1272,
+                  "y":1025},
+                "size":{
+                  "width":320,
+                  "height":37},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u506.png"}},
+{
+          "id":"3c2b32c830024eb686944c8e39fbb361",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1348,
+              "y":1020},
+            "size":{
+              "width":234,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u508_line.png"}},
+{
+          "id":"41b14e41ef8e4350bcc4793d73a3d3e8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1272,
+              "y":1177},
+            "size":{
+              "width":320,
+              "height":59},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0511867952f841a78966d0d35e1d24a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1272,
+                  "y":1177},
+                "size":{
+                  "width":320,
+                  "height":59},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u509.png"}},
+{
+          "id":"e7d5015a6edb43c1a9c9ded5e1c810da",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1352,
+              "y":1171},
+            "size":{
+              "width":230,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u511_line.png"}},
+{
+          "id":"00cf7da3933c4b16ba8e42bee63b1a2f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1393,
+              "y":1188},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9735c873ed8546b486fdd959ca9bb8b2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1393,
+                  "y":1188},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"bd1a8b33581543c0b77ba905ffdc35bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"12px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1414,
+              "y":1215},
+            "size":{
+              "width":82,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"03521fc0bc994b40865431d2aac95758",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"12px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1414,
+                  "y":1215},
+                "size":{
+                  "width":82,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2eb98788923f4269bc6fce00be52e448",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1393,
+              "y":1214},
+            "size":{
+              "width":14,
+              "height":14}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8ca0cda2ab2746acb911fc49d70c4d65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1393,
+                  "y":1214},
+                "size":{
+                  "width":14,
+                  "height":14}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u36.png"}},
+{
+          "id":"31434b22f92a449dae38e9357782c973",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1247,
+              "y":1188},
+            "size":{
+              "width":229,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"187d75c89422464fad4ae6eb30355e02",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1247,
+                  "y":1188},
+                "size":{
+                  "width":229,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"47e6df3d965849a4a0a31a7b51c68907",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":1054},
+            "size":{
+              "width":320,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u520_line.png"}},
+{
+          "id":"596fcde24fa947a68d58b05546cad060",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":1236},
+            "size":{
+              "width":320,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u520_line.png"}},
+{
+          "id":"64dec18f67cd46fea375fd268f3030ce",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":403,
+              "y":1029},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2a3a1ce94b954c7890ee40d3047a276d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":403,
+                  "y":1029},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"aac94779c3fd42fc841868f7f3c49641",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":473,
+              "y":953},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12b60608faa341fb9417b528e1527dfa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":473,
+                  "y":953},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8b81a8e8e53f4045817a404e36565c51",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":403,
+              "y":1164},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d6878128dac4d0cacbbca0c5b74e8ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":403,
+                  "y":1164},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"97a28ae471424bd29484723524d6dbff",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":234,
+              "y":1164},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c6c1926659b4bf2b50336664d5c90ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":234,
+                  "y":1164},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"378d6e231bf04f81a0fbd41d10c44061",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":584,
+              "y":1164},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"82e1efb4c7bb4f11a2297e0c519bc0e6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":584,
+                  "y":1164},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"60a5944df4724af9b20ebae92026a74a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":750,
+              "y":1164},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b590c00d98f748bb8df326e8d36b0e94",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":750,
+                  "y":1164},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"c7b7ab3a46264725ba57d9148841549c",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":471,
+              "y":1103},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1ab9947bc7a43ce881ac7a45af26b1b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":471,
+                  "y":1103},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"04e0b178a7844fa2b31f2b8580a55702",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":440,
+              "y":1103},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b66b0f935b8447d1ac6743a7f94d7c40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":440,
+                  "y":1103},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"0fa421d9758d4ad6b351646571ff4174",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":490,
+              "y":1103},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1aa56cee4c98429781df8a4ee5892ee0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":490,
+                  "y":1103},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8c9b46f9f8d144d6a40cd230f1377040",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":520,
+              "y":1103},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"828da6a47cc7409eb6d50fa0c500e0bb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":520,
+                  "y":1103},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"c25019d60a124c0086eb9675c4d24e42",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":403,
+              "y":1293},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6012b0c36f90475a93269e829a6b95eb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":403,
+                  "y":1293},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"caa730f4a4224aaeaded60587b604aa8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":234,
+              "y":1293},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0114a47cd90341e29b6dd0ba9299b72b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":234,
+                  "y":1293},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"230550aa2c854590a6e61227e4248a29",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":584,
+              "y":1293},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ce0d7b9897954e4d9def88673b11a4ba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":584,
+                  "y":1293},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"5bacbd7ecd6d46bcb138d40f00711194",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":650,
+              "y":1233},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"404065d7a021456282ed91b366b68c2d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":650,
+                  "y":1233},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"fb9f7e08a83c4cd7b40d8110ed765fcc",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":470,
+              "y":1233},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0cdda14554e34787a69a27620fa47e10",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":470,
+                  "y":1233},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ca31cf965eba4b5b96e36ea32dc74617",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":290,
+              "y":1233},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7145161332904e65a9ee080a8a5496ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":290,
+                  "y":1233},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d077c3c60ac645c88b68f31cf51f3220",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":290,
+              "y":1363},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ba698618a4944b0c8aee6704028536be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":290,
+                  "y":1363},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"08b235a26eb2417daacf4596e7941f53",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":417,
+              "y":1532},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fd164417415f4b2fa2b69a679bb05d6c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":417,
+                  "y":1532},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"e8c28b76018b4676a2e967c48b4fc4c4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":417,
+              "y":1673},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f7ef67944864a6ca0cb977ed8d389ff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":417,
+                  "y":1673},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"cb802c0d78a640baaba842225d3db61a",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":487,
+              "y":1602},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cd0e976bf47c449497bbf562779c1d09",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":487,
+                  "y":1602},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ba9b55579cc043cea58304bac0b3f8d9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":417,
+              "y":1818},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc43285ef3e144a5a5ca4134ff747dd6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":417,
+                  "y":1818},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"0573d56766744f5caa885bb4fad1f9f8",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":487,
+              "y":1742},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6fa6728d8d194df0a5c0c138846300eb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":487,
+                  "y":1742},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"358cb23410fb4ce087ad5b5750ee337d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":417,
+              "y":1953},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ae606c858d347ff965f2e4b8d68ad36",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":417,
+                  "y":1953},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"4e3f477c30f344e38f4e3d1e455ff1cf",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":248,
+              "y":1953},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a0d90b83fe2c43fcb89a9db0e1d6381e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":248,
+                  "y":1953},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"f5bbf1ca2f7e489da0baf0c3816fb980",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":598,
+              "y":1953},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4adbadc963804ab9868a00817b743db7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":598,
+                  "y":1953},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"31f1f711f2634abb879a6a39efbcd5c8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":764,
+              "y":1953},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d77511c696be4d9d90fd5b291e897170",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":764,
+                  "y":1953},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"ad172f760c6d48dca89329cd702277fa",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":490,
+              "y":1883},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b9abcd78bcb248649412c94968c7e5d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":490,
+                  "y":1883},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"868752457e634fc2a441175b21b36928",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":460,
+              "y":1883},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e21132abe9814f9c85243f91d4481a99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":460,
+                  "y":1883},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5d896834517e429bb49ac80594db7bfe",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":510,
+              "y":1883},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e8360ec810244f6bac96dcb3ec20d3cc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":510,
+                  "y":1883},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e80a6e06ec9240579df8318ab7924029",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":530,
+              "y":1883},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"87335e37132242cfbbdc16e2e1ec1ca2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":530,
+                  "y":1883},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"cb9a3a34814b432fac388f8c8983d919",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":417,
+              "y":2082},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e6fafe8560384a3d8e35d45315501ca5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":417,
+                  "y":2082},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"c428537ac12f4163ba8683a4a848c3a1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":248,
+              "y":2082},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b04edc46329d4937a30c99261db9ded9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":248,
+                  "y":2082},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"9d6cb37eaa0947d2b41c506e874df035",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":598,
+              "y":2082},
+            "size":{
+              "width":136,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"faec64cf05f9400a90e1cfeab1b00c01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":598,
+                  "y":2082},
+                "size":{
+                  "width":136,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u492.png"}},
+{
+          "id":"93f43087ef3f4276b11b6901852f8120",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":664,
+              "y":2022},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa82292df3a04f2b99f5ef97a076fa99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":664,
+                  "y":2022},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"883af1687a1343579f67e65f7f65fe60",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":484,
+              "y":2022},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4bf03c3b6f5545299c99ae57cd704a99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":484,
+                  "y":2022},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"71a697584e0d422db80437349fb7959c",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":304,
+              "y":2022},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"005374e75cef4943b62cfb2f759df6da",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":304,
+                  "y":2022},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6f01744427f849ad97f648de49771036",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":304,
+              "y":2152},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d2d2f8f8096477088c2399f23000f66",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":304,
+                  "y":2152},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3f656f5c6f4b4273a7cff26a07d0c938",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1588,
+              "y":952},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e18c2d5cc7c24b22b64ef1fb217f9a9a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1588,
+                  "y":952},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5269bde44cf748f8b1676ce0122fa5d8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":2010,
+              "y":930},
+            "size":{
+              "width":70,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"48d9648405bb457b98908adeba8bda37",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":2010,
+                  "y":930},
+                "size":{
+                  "width":70,
+                  "height":64}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0f17c0592a6b4faf9b9cc9116e92c990",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF9F9F9},
+            "location":{
+              "x":1272,
+              "y":1632},
+            "size":{
+              "width":320,
+              "height":578},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"05a197eb85f14ef0af042af5efa3a487",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF9F9F9},
+                "location":{
+                  "x":1272,
+                  "y":1632},
+                "size":{
+                  "width":320,
+                  "height":578},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u0.png"}},
+{
+          "id":"861027516d7148deadf57ed996f1f6aa",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1279,
+              "y":1632},
+            "size":{
+              "width":308,
+              "height":13},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c80320c4a4d24bf3b78b6717882f4757",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1279,
+                  "y":1632},
+                "size":{
+                  "width":308,
+                  "height":13},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u2.png"}},
+{
+          "id":"c22a86db9a2d47868986e082254ec9f6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":1647},
+            "size":{
+              "width":320,
+              "height":53},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e42e7beeeb2b4835951c912ef3e51c75",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1272,
+                  "y":1647},
+                "size":{
+                  "width":320,
+                  "height":53},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u4.png"}},
+{
+          "id":"52041d72d3c240ae8b0f1da0df61406d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":1272,
+              "y":1699},
+            "size":{
+              "width":320,
+              "height":731},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a53d962914ec4c458762311f107425cd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":1272,
+                  "y":1699},
+                "size":{
+                  "width":320,
+                  "height":731},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u606.png"}},
+{
+          "id":"bbf19ee5513848daa75c716a6db186db",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1418,
+              "y":1666},
+            "size":{
+              "width":31,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cf2e005431e40c28bbebbbad05bdbe4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1418,
+                  "y":1666},
+                "size":{
+                  "width":31,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"930be1bf4778462f9680212d95ab26f8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1272,
+              "y":1699},
+            "size":{
+              "width":320,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cdc1a424bfc4c778b57fdad4707dd28",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1272,
+                  "y":1699},
+                "size":{
+                  "width":320,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u610.png"}},
+{
+          "id":"d643533e58a849698857d6b6c3746853",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":1732},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7d6e5baec9e14af099a62c67608497a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":1732},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"d6f56d22032f44eeb7b30f5b50427d97",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":1732},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"99e1be37a9a24e40bdde6c147133b6fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":1732},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"6f24e330b63545c281f69229fada46bb",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":1732},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79d5764435db4654988fce6f25decd9e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":1732},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"9ccbcc737fee4be4ab2be7c5e73a4028",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1272,
+              "y":1812},
+            "size":{
+              "width":320,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0369529dc9194eb4be3c05bc0f038995",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1272,
+                  "y":1812},
+                "size":{
+                  "width":320,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u610.png"}},
+{
+          "id":"51c4f55459a744a5b25242581e3b29b3",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":1844},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6113c7131ac14aafbdbecea8656a1965",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":1844},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"aa2744e57a93469cbc6d76c4cd3f160c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":1844},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ccf0b3339084bcb90df06a12b8c8201",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":1844},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"6f42e6d3e8cd4966b720f6f4911cc529",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":1844},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"080ce457713a4ea39d7bfe9c7382df76",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":1844},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"f90062d3124e456fb106ef23ea01275c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1592,
+              "y":1844},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"56c09e1554284d788e3e9150bd063162",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1592,
+                  "y":1844},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"2cbfa6b59bdc479990838b8418b50dc5",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":1924},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a8441e62b54c43a89450bd009dcdb486",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":1924},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"ab1833b6cc53497fb0ad8fed93811a4b",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":1924},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2f7d3be3e86242d7881a40d23a394830",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":1924},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"e4eba2e12213444f8b43f530f9308ce8",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":1924},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c3d7a28ac1ae4cfeb57d41e262531a10",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":1924},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"87888b4a01a4403384953b013fe7bd96",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":1924},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f96a7e53048478a9c0072768411a2a1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":1924},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"fd8ffccfd0be4b64b3aa1a9061bf4bb5",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1271,
+              "y":1844},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1869e7b73d09425abe7365f56acea759",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1271,
+                  "y":1844},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"e324bfc2954b4c9c99fff9a35c50cad1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1273,
+              "y":2004},
+            "size":{
+              "width":320,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39e6498100e24e8b9be70d5f92d9c7a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1273,
+                  "y":2004},
+                "size":{
+                  "width":320,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u610.png"}},
+{
+          "id":"35f2a96736eb44b69e7235a7d9ae9449",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":2036},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"68d2ba5491b8493dbd0a33523feebc51",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":2036},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"448679f4b1d04c909a7fe02b5cc3b837",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":2036},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f2d37364b5574895a84c472264b18932",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":2036},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"0935a5ddd69a4946a119ded6258921bb",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":2036},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1bbf3ac11734cff856329724f941909",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":2036},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"dafb3118ea7c4502b8a014f7abbb9948",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":2036},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f5f3c257243942de8a429c7ab1c7b0fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":2036},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"99612385dc194001b8610123b056a83f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1592,
+              "y":2036},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"27ad140dfaf941d1bf4e86fc3db0e5e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1592,
+                  "y":2036},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"6e4ee6d8ccce48bbbfe9487c2e74670c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":2115},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5b13729df14b432bb76990e02ad05cc7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":2115},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"a1fcc47e9f42449ca33a493a2dc37a46",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":2115},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff40ea223d0e4080bde9535aa560d797",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":2115},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"44d223c026964e6c89f1a14bc1901bf5",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":2115},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b30ba403274f42279fa1341a0f1e2761",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":2115},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"463bffae534742a68fa733c7df0a1628",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":2115},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc6aafab108143db8c5efdd5956cc470",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":2115},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"c8e06a3855884f54996043d743e81bcb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "horizontalAlignment":"left",
+            "location":{
+              "x":1273,
+              "y":2195},
+            "size":{
+              "width":320,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"22987ae68f374bb3a5ee61007e5ea766",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "horizontalAlignment":"left",
+                "location":{
+                  "x":1273,
+                  "y":2195},
+                "size":{
+                  "width":320,
+                  "height":33}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u610.png"}},
+{
+          "id":"e4086d81d3244a23814a4caea375faad",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":2227},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"316bde0f80c744d58506cdd226d42b47",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":2227},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"8a6e41fcf9024b328b4d3594d7b11ed2",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":2227},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7c51d82117b54443b2ffed888e142a79",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":2227},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"c2732c25dcca4e82aa2ce55206104323",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":2227},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"712f772db5be4092909914b7b699cee9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":2227},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"ba9518fc2f8649e7bfddf3c1e03f7955",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1592,
+              "y":2227},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2ec316af33ba40f4bb4dd2a289182532",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1592,
+                  "y":2227},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"d2561b2f7a7c467eb5fec8838641a877",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":2307},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b3330d813b4844e284610c0e7b711b0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":2307},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"722f62817be44b9ab0c43877772d8094",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1352,
+              "y":2307},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b4e73c4f01ef4596bbd214e3a2449292",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1352,
+                  "y":2307},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"3e86e5b86ffc4c92a3787ac78d6a0f9d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1432,
+              "y":2307},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0ae109a711aa4b15aa3d19b226242b4a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1432,
+                  "y":2307},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"083c1808ec1846e3a0ce20a1d51cd5d9",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1512,
+              "y":2307},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ac110d3846584c40a9872913af74a838",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1512,
+                  "y":2307},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"55e81e965cb749718f8041a4a4074bc7",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":1272,
+              "y":2227},
+            "size":{
+              "width":81,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d8f733e7e52f40f7acc8a14362a6a92e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":1272,
+                  "y":2227},
+                "size":{
+                  "width":81,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u47.png"}},
+{
+          "id":"fd2910766030405c8b19e49b470355de",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":2390},
+            "size":{
+              "width":81,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"454b0c28f98a4bf7b9af7c2b18a254dc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1272,
+                  "y":2390},
+                "size":{
+                  "width":81,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u678.png"}},
+{
+          "id":"ee7f5d056f884322bf7928aae3e45021",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1351,
+              "y":2390},
+            "size":{
+              "width":81,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d6582c4505e04df0a51fbccf14efaed3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1351,
+                  "y":2390},
+                "size":{
+                  "width":81,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u678.png"}},
+{
+          "id":"d131c4615a0f4a849831339966a6438b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1432,
+              "y":2390},
+            "size":{
+              "width":81,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d2c0213feae4a2d80dd41e655b9cf4f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1432,
+                  "y":2390},
+                "size":{
+                  "width":81,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u678.png"}},
+{
+          "id":"31bb0d75ad7044358212f0e6f13ffe97",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1511,
+              "y":2390},
+            "size":{
+              "width":81,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5123ec387f174f8db6be7672a12e9a16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1511,
+                  "y":2390},
+                "size":{
+                  "width":81,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u678.png"}},
+{
+          "id":"ba1032a325d248208c4ed5a93cf7f4f4",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1513,
+              "y":1771},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1cf38b0f624041a8887248bf9589950a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1513,
+                  "y":1771},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ef22e5035d2e4f4d9f132aa7c587bb07",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":1602,
+              "y":1756},
+            "size":{
+              "width":96,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4f6563eece2048d289c92a491b73924d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":1602,
+                  "y":1756},
+                "size":{
+                  "width":96,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"553784ce900e45b8ba94a24f2523b318",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "location":{
+              "x":1708,
+              "y":1564},
+            "size":{
+              "width":21,
+              "height":21},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f09c8eaf006d41a6af0a4d880a7e64a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "location":{
+                  "x":1708,
+                  "y":1564},
+                "size":{
+                  "width":21,
+                  "height":21},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u254.png"}},
+{
+          "id":"08191c7edd374feeb0723de09ac753e9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"24px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":234,
+              "y":693},
+            "size":{
+              "width":276,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"afb87b15419b4a718c23496637bfa3d7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"24px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":234,
+                  "y":693},
+                "size":{
+                  "width":276,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"746f714553674aebb407a5c0f686f29e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":1265,
+              "y":1172},
+            "size":{
+              "width":336,
+              "height":74},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"894cf9e485444334ad1cc6be3a705dca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":1265,
+                  "y":1172},
+                "size":{
+                  "width":336,
+                  "height":74},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u694.png"}},
+{
+          "id":"cf7110f243a5405995bd927f11957ebd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":980,
+              "y":1360},
+            "size":{
+              "width":271,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"813bfd9b3d64492bbbb8d0c0482dfc13",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":980,
+                  "y":1360},
+                "size":{
+                  "width":271,
+                  "height":140}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"39923614ea27403390b0ed4d1d1e320e",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1118,
+              "y":1342},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1aeb3fdccaf14296a39bbb6acb0c1522",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1118,
+                  "y":1342},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"2752e00337e845b1bc68cf6d9ec0f32e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"15px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":1603,
+              "y":1777},
+            "size":{
+              "width":271,
+              "height":140}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8a7d2cba26f74b8aaa75d8d26766c115",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"15px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":1603,
+                  "y":1777},
+                "size":{
+                  "width":271,
+                  "height":140}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2346645426da47b78c5606c1444b24a6",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"24px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF},
+            "location":{
+              "x":940,
+              "y":702},
+            "size":{
+              "width":160,
+              "height":162}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9ceb25779693414fa19aa36777456cb1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"24px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF},
+                "location":{
+                  "x":940,
+                  "y":702},
+                "size":{
+                  "width":160,
+                  "height":162}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网超流程更换及外卖团购微店二级页面/u702.png"}},
+{
+          "id":"d3c8eb740a0945a3ba0113f6d1c4ec4e",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1100,
+              "y":783},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"31a438a8b74b48cf83b0688efd7f138e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":1100,
+                  "y":783},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"152d62c86cb548f48028f07f8b904252",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"24px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":2127,
+              "y":690},
+            "size":{
+              "width":276,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"09dd7be5b1084596adf4019e580288a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"24px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":2127,
+                  "y":690},
+                "size":{
+                  "width":276,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e2cc865af98841f797d4ced5feb36422",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontSize":"20px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900,
+              "opacity":1},
+            "location":{
+              "x":2127,
+              "y":730},
+            "size":{
+              "width":424,
+              "height":975}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ca69ed6fde84b07acdba322d22d75d2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontSize":"20px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900,
+                  "opacity":1},
+                "location":{
+                  "x":2127,
+                  "y":730},
+                "size":{
+                  "width":424,
+                  "height":975}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"de92c6bcd45b42488ca7a1c71973a88d",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":2010,
+              "y":952},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF9900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da467ff89a7942d6acda1b4e07086b80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Normal', 'Arial'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":2010,
+                  "y":952},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF9900}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"09b5eda126bb43c8a88f4095663a379c",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Normal', 'Arial'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":1272,
+              "y":905},
+            "size":{
+              "width":320,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/网超流程更换及外卖团购微店二级页面/u520_line.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cc749fbec17e414dadc3a1424624d943":{
+      "scriptId":"u0"},
+    "9bbf02b599ab4c1db0d7a7e218a02e1e":{
+      "scriptId":"u1"},
+    "1cdc890dce4e45d98639f654573dd310":{
+      "scriptId":"u2"},
+    "c237db0b8f50457ab1ac7cdbda9f6ffe":{
+      "scriptId":"u3"},
+    "25813411ebc5424f9ea17746ea9594c5":{
+      "scriptId":"u4"},
+    "984c5a3573b94282834c86cd5c8cb432":{
+      "scriptId":"u5"},
+    "258f74aff52c424dbe41199c8385e02a":{
+      "scriptId":"u6"},
+    "90fd43ec6d4144a88fabaf071009b452":{
+      "scriptId":"u7"},
+    "8703f6ca9cb248e4bee68d3ca6c7a1a7":{
+      "scriptId":"u8"},
+    "f4602173927d419db52c292681f0118c":{
+      "scriptId":"u9"},
+    "1da345206e1d40589f66dee8c5941c62":{
+      "scriptId":"u10"},
+    "ec4e4b2b45fa48cb97fa59f13060b242":{
+      "scriptId":"u11"},
+    "2131e2f70ff349e3adbf394fc6341dd4":{
+      "scriptId":"u12"},
+    "09a7421f3d1f43d39205300a40c13e1f":{
+      "scriptId":"u13"},
+    "f86bb86b001c463698da6dd25dbc38ac":{
+      "scriptId":"u14"},
+    "7640a8f930444801920a0c67937637fa":{
+      "scriptId":"u15"},
+    "4dee33c7445e40f5be3a3b15d983ca4f":{
+      "scriptId":"u16"},
+    "6864031663d242d081d24b0712f47dca":{
+      "scriptId":"u17"},
+    "499aa6e2912c4042a4220c2e6bde665c":{
+      "scriptId":"u18"},
+    "02f651f17a1347b0a8cb0d872a4bb2f5":{
+      "scriptId":"u19"},
+    "7f2df5a19a1f4589a65d7aa09a56f971":{
+      "scriptId":"u20"},
+    "d065432556f54933b56b29557ae66b38":{
+      "scriptId":"u21"},
+    "28908a84681149a08dac484f71dc4093":{
+      "scriptId":"u22"},
+    "9d35c19f927148aab3902b71804131ab":{
+      "scriptId":"u23"},
+    "ec0a88a552d84b939c64da086da6a29c":{
+      "scriptId":"u24"},
+    "96a4094190e6430bb498b276b6402283":{
+      "scriptId":"u25"},
+    "fdf017a4c00d47329dec2acaa026b946":{
+      "scriptId":"u26"},
+    "aa2fa95475d74c66ad60e6e4a14aa7cc":{
+      "scriptId":"u27"},
+    "1cacce5d2c824bf3b3cc9e16ad34a692":{
+      "scriptId":"u28"},
+    "5a472caa5a934d49a1108de366109b0e":{
+      "scriptId":"u29"},
+    "299485c8d6ac4da9b0fac570fbac1bd6":{
+      "scriptId":"u30"},
+    "b5c2af3dd1e4411a9d430f263a877b87":{
+      "scriptId":"u31"},
+    "f385db8c96c54a3e96098339c975e321":{
+      "scriptId":"u32"},
+    "1f5d8a5f6e064f378bf7a84ee05973f4":{
+      "scriptId":"u33"},
+    "febccf267c3148f09cfcfaa62859b1a6":{
+      "scriptId":"u34"},
+    "53653ed862e24f31a84141b273e52597":{
+      "scriptId":"u35"},
+    "ddfaf05fe5644edfa81c34e48a4adb2c":{
+      "scriptId":"u36"},
+    "948cd7a178bd4743ad359caab542d12d":{
+      "scriptId":"u37"},
+    "4d501f98e2b445ba886d8b502c16b035":{
+      "scriptId":"u38"},
+    "afad802a86594e8dbcc7649375e99e7a":{
+      "scriptId":"u39"},
+    "215b45ed16e547b8a02707e294494132":{
+      "scriptId":"u40"},
+    "184f249f70cd45569da1263590c8f2fb":{
+      "scriptId":"u41"},
+    "31f76285a24c402a9ce27d9557183395":{
+      "scriptId":"u42"},
+    "deaebce1842b48b89ad85c7fc81f4637":{
+      "scriptId":"u43"},
+    "c58febe509b241118a13bf90c6a2fb93":{
+      "scriptId":"u44"},
+    "ddfbe9f2fb1d4651a713157d74b974ea":{
+      "scriptId":"u45"},
+    "9bd8ed8fd5aa4a48ba07e8fdae074932":{
+      "scriptId":"u46"},
+    "dd36103f97f149a094164ab85176a53d":{
+      "scriptId":"u47"},
+    "1ec6f32755f041afb92817fdccc0d8f9":{
+      "scriptId":"u48"},
+    "624a279c058a4fa09fb3d693dafdb476":{
+      "scriptId":"u49"},
+    "cc4b7668dcef4b98b7a9639fbaca1f69":{
+      "scriptId":"u50"},
+    "497a6ebed8b24504b2f713477c351c12":{
+      "scriptId":"u51"},
+    "7c79bca46c364754bd8c964b1a0ff0ff":{
+      "scriptId":"u52"},
+    "2d5b20e403f34238bb43d463088751ae":{
+      "scriptId":"u53"},
+    "b3cb00e724f349768a55b5e82dc1df9e":{
+      "scriptId":"u54"},
+    "63c450b5d725420696afd8f523432b0f":{
+      "scriptId":"u55"},
+    "9b402fae5668484c933176f0afc4d73e":{
+      "scriptId":"u56"},
+    "f35e78ccf80741e6b5609bcb56a94b88":{
+      "scriptId":"u57"},
+    "688047bcca84454c9745aa5106aad323":{
+      "scriptId":"u58"},
+    "6e9929cb409c40b39fd937b64d9c3455":{
+      "scriptId":"u59"},
+    "e202e971b8b24f74a38cc2e82f981977":{
+      "scriptId":"u60"},
+    "4007a59293664e68b4d5b1021ea98b20":{
+      "scriptId":"u61"},
+    "5e292b6e655146dcb00559614772ad72":{
+      "scriptId":"u62"},
+    "53c160a6fe524dc5b0275ad603054be9":{
+      "scriptId":"u63"},
+    "efab8fe0b07d40c285e62f034389104c":{
+      "scriptId":"u64"},
+    "c9f948cf92b14cf3b4886de7f6106e4b":{
+      "scriptId":"u65"},
+    "c24cd3b07498423fb428e1f48730fbb7":{
+      "scriptId":"u66"},
+    "c83c9d3b87ad4d4291bc3387c748fa80":{
+      "scriptId":"u67"},
+    "1934e0f85b564b0dbedb5a67c7497475":{
+      "scriptId":"u68"},
+    "8ec72a852fc144398df4c1831adf0f83":{
+      "scriptId":"u69"},
+    "24b87cdbd958437591bfd185ff8d806e":{
+      "scriptId":"u70"},
+    "e22113ef99ae4725b62940ec3c7615c6":{
+      "scriptId":"u71"},
+    "40799acd05644e95a4fcf6131282506f":{
+      "scriptId":"u72"},
+    "dcfbf4adaea24487a072e0d098b6907f":{
+      "scriptId":"u73"},
+    "367eab7254194a0da81cccd5c9357ed1":{
+      "scriptId":"u74"},
+    "8ea392d87864497b9fdff61613dc4ac8":{
+      "scriptId":"u75"},
+    "2b103a41784744cfbdc757f69f862b91":{
+      "scriptId":"u76"},
+    "2416bc0c78854ee7b59b0779d73062cd":{
+      "scriptId":"u77"},
+    "7001b844114c4c9eb56419242cc1f4e6":{
+      "scriptId":"u78"},
+    "d0c9e4de95df4cd39201fb233edd148a":{
+      "scriptId":"u79"},
+    "7924f961f1624013829446a1846efc91":{
+      "scriptId":"u80"},
+    "725da515812948169ae381d2cb17acf5":{
+      "scriptId":"u81"},
+    "04dbfff36e384f458619a3e52155876a":{
+      "scriptId":"u82"},
+    "986619be1b0b4886a93319155d6a7c97":{
+      "scriptId":"u83"},
+    "4d9b300085c34d35b7d4bcb77e9f0dd3":{
+      "scriptId":"u84"},
+    "9818d9d75a5e4a71ae806c5916353019":{
+      "scriptId":"u85"},
+    "975fbf1a3a054680a1fd89ff3f899775":{
+      "scriptId":"u86"},
+    "91e8d50488a54050af65f7eef31a0c91":{
+      "scriptId":"u87"},
+    "2477abc96f6a44ccb3a5e14156927441":{
+      "scriptId":"u88"},
+    "7504717b3a5945299f73c1f72ceb96a8":{
+      "scriptId":"u89"},
+    "1cbbbfa83a66468fb277fb98253cf503":{
+      "scriptId":"u90"},
+    "90ee845ed6e14273a72a5a8c0a46f21d":{
+      "scriptId":"u91"},
+    "07196a59361c433cafa35ffcb31ea9ac":{
+      "scriptId":"u92"},
+    "14f1db6bc6694c47b27a65d40847d9e4":{
+      "scriptId":"u93"},
+    "d024f19da1aa4bccb4470263de6d7e14":{
+      "scriptId":"u94"},
+    "4b29b36209ea4f09b6e5123268121008":{
+      "scriptId":"u95"},
+    "7355bace4a174f919f2bd846527174da":{
+      "scriptId":"u96"},
+    "f2c54b3a851a4e7c8a50d4d2eb12c2d7":{
+      "scriptId":"u97"},
+    "1f69de315bd54e6babbe55dd8d7e6fc9":{
+      "scriptId":"u98"},
+    "a9eaf54752794b4aa2032d1c5d6e9800":{
+      "scriptId":"u99"},
+    "4c855c5b387a4ba2a6fee927b35d0ed3":{
+      "scriptId":"u100"},
+    "e49b1a172feb4a69b8ec42a4eb3c34c6":{
+      "scriptId":"u101"},
+    "f725ce3940254634bea99dde2c04f476":{
+      "scriptId":"u102"},
+    "fcade7883a6c4e6998146ef8b998aade":{
+      "scriptId":"u103"},
+    "72d8dcd22c5d4b62a657669795f6de31":{
+      "scriptId":"u104"},
+    "f35e8c37b5f847f296f07f8979ed1580":{
+      "scriptId":"u105"},
+    "f21129a1eb71484c88c451f48690ea81":{
+      "scriptId":"u106"},
+    "a97f353fa3104979973cf78e065afc00":{
+      "scriptId":"u107"},
+    "2ce6add02a1246f3901b15cba9388a22":{
+      "scriptId":"u108"},
+    "b661c850488c4ceb93104b1919ba3875":{
+      "scriptId":"u109"},
+    "4830889961cd4b76b59260d5c1bca027":{
+      "scriptId":"u110"},
+    "47f6ac59d19145ebbcc14b4301583cb8":{
+      "scriptId":"u111"},
+    "35eedcc399204dfc8735ec82ce5e28f9":{
+      "scriptId":"u112"},
+    "7211c1ea639245cbb266be13bcd09331":{
+      "scriptId":"u113"},
+    "17fbefec016941a1b026b9f883eff26d":{
+      "scriptId":"u114"},
+    "8f86bf7543194989bb843ade6364388e":{
+      "scriptId":"u115"},
+    "508cd6798a184fc49f9f0bcc31fa2aaf":{
+      "scriptId":"u116"},
+    "520ae37d1bad48e0b174a13de776ce29":{
+      "scriptId":"u117"},
+    "756f96e40f1346a693c0ea6bb69ad8a9":{
+      "scriptId":"u118"},
+    "9423e33e651145679b4a48f72ee5a0e1":{
+      "scriptId":"u119"},
+    "c267211e6778449bb6f13e8b8a2f78e7":{
+      "scriptId":"u120"},
+    "9363c3a616294357a6a542cc4bd3118f":{
+      "scriptId":"u121"},
+    "f345b54f40f84caf9c315e50cb6785a4":{
+      "scriptId":"u122"},
+    "ff1297e0d72b4802a572d3512825b203":{
+      "scriptId":"u123"},
+    "6fc82bd8abe44999a67340492a103d1e":{
+      "scriptId":"u124"},
+    "a63b886d02f54a9f97c1909932170721":{
+      "scriptId":"u125"},
+    "9f0c872090c743e08c99b26d96f7a413":{
+      "scriptId":"u126"},
+    "3b722eb41fa34b18969e37253e8e69ec":{
+      "scriptId":"u127"},
+    "9b2df27e9a9f491f917a6d5fbebb3e4b":{
+      "scriptId":"u128"},
+    "9eeb98a23c5f4c09a0c5f07bdb87e47d":{
+      "scriptId":"u129"},
+    "cb11a8b41aba467f866c1f04f863e733":{
+      "scriptId":"u130"},
+    "6a71d3a4d817405eafb80507ab2ac2a4":{
+      "scriptId":"u131"},
+    "e181713a8132403eb22bef5321bfed28":{
+      "scriptId":"u132"},
+    "a7b87ad8cb8e4aaa8f3d6599c5d5b2c6":{
+      "scriptId":"u133"},
+    "c353609c179649518231b6ccb05ff1e5":{
+      "scriptId":"u134"},
+    "d9eab50c1b0343ddbd65e0772082b849":{
+      "scriptId":"u135"},
+    "35c3e600c03c4ce0baf4aded4a69fc95":{
+      "scriptId":"u136"},
+    "1039e038b77f4e3f93f3e1dfcdc3e8f4":{
+      "scriptId":"u137"},
+    "854b12a7328d4fce8d55ea6f5be5a02a":{
+      "scriptId":"u138"},
+    "a9b471d94c2e4f2e9056e376a08b2e66":{
+      "scriptId":"u139"},
+    "982f948654994c62b420ec0488959f85":{
+      "scriptId":"u140"},
+    "b1285a7c76334478bf03e2ef73186b94":{
+      "scriptId":"u141"},
+    "24405806cd8e4edc87e61b8f1e881930":{
+      "scriptId":"u142"},
+    "6c44bbc44762477ebf4c141b331e5822":{
+      "scriptId":"u143"},
+    "28301ec340a24e0bb839afb8bebd4e07":{
+      "scriptId":"u144"},
+    "dda38cfdb7734824a3f389827a48e833":{
+      "scriptId":"u145"},
+    "d66abdc9ed264a279bd04f08c612c296":{
+      "scriptId":"u146"},
+    "eb4b3b1e9a0145fb98de5df854624923":{
+      "scriptId":"u147"},
+    "b6c68c72398f47c1ae024e848c33dd81":{
+      "scriptId":"u148"},
+    "85dcbb81ef23404f8d2c3a2d6ec9ad6a":{
+      "scriptId":"u149"},
+    "44494c5498e344b89baf0add4bf9ad39":{
+      "scriptId":"u150"},
+    "6b9bc05320f4490887714f82914d33dd":{
+      "scriptId":"u151"},
+    "bb544843d689409591ef7416b29e05a3":{
+      "scriptId":"u152"},
+    "6a1357be2c84448d856743a8606f5ddd":{
+      "scriptId":"u153"},
+    "d1ad693989964cdb9353662da9c26146":{
+      "scriptId":"u154"},
+    "56fe74cd629a4f51b2d86a29aa23840b":{
+      "scriptId":"u155"},
+    "68f0cab241bd43349f935e5fe0860a1e":{
+      "scriptId":"u156"},
+    "2683f03a86a64e8683f0c1bca7b6186c":{
+      "scriptId":"u157"},
+    "9737fc4225fb4b70b19b7fdca3981cfe":{
+      "scriptId":"u158"},
+    "91fbd256c0a84f9baff0e83e15e9f28a":{
+      "scriptId":"u159"},
+    "c2aa4cd1827b482f962e97a411191fbb":{
+      "scriptId":"u160"},
+    "774d31e191984f2caea03e0cc2c56cc6":{
+      "scriptId":"u161"},
+    "b0dbade0e7d94a9dbd83b29d9b7ea543":{
+      "scriptId":"u162"},
+    "38710449dc574b67a9a1cb799218a97a":{
+      "scriptId":"u163"},
+    "afffb3c349d24767a88f91091720e467":{
+      "scriptId":"u164"},
+    "6a8cc2b7552b42a2ab54982715b216a3":{
+      "scriptId":"u165"},
+    "2a0ac385f2ef4664b95bc7984fe32c1c":{
+      "scriptId":"u166"},
+    "52587eb685d24bf88ae3eb7fdfb06154":{
+      "scriptId":"u167"},
+    "24d6503ed4dc4df7b22baa1d26f1be4c":{
+      "scriptId":"u168"},
+    "78c58a69c9e54ddc8196afec2816e3d2":{
+      "scriptId":"u169"},
+    "d41da9c624834198a1bc4eb2d192bceb":{
+      "scriptId":"u170"},
+    "b7b3a450f82c4f7faac36b9846b659b6":{
+      "scriptId":"u171"},
+    "167797e4a7224363acd30a46fcec66d2":{
+      "scriptId":"u172"},
+    "ce8c2316aa994f3a9138376858e5534a":{
+      "scriptId":"u173"},
+    "41ead413ec0a4c9c9ac4940fb6378ccb":{
+      "scriptId":"u174"},
+    "cca5ff3d024f48caba124e60f6761cd4":{
+      "scriptId":"u175"},
+    "461eebb07407471e953a38a98df0772e":{
+      "scriptId":"u176"},
+    "e17ea03f44484d9bbf27bd170a782cae":{
+      "scriptId":"u177"},
+    "cb2f8aa66456496692513d891e3025ed":{
+      "scriptId":"u178"},
+    "65979f8b88cb473487013d8cca28c8b4":{
+      "scriptId":"u179"},
+    "c9ef3211063743b99b43eb3d6b98973a":{
+      "scriptId":"u180"},
+    "1a06456288d7463ea3a3318238958c47":{
+      "scriptId":"u181"},
+    "007a3a73ff384980b3110c58633ca563":{
+      "scriptId":"u182"},
+    "bbf98aae66494a149f9722f60fb54199":{
+      "scriptId":"u183"},
+    "ca658bb41cfd436b97bd1938894ee274":{
+      "scriptId":"u184"},
+    "49ac958b7444468dbab19fbf98a82c79":{
+      "scriptId":"u185"},
+    "5e05f43d91c84d6d957e7d2fc3818b5e":{
+      "scriptId":"u186"},
+    "6b8cd89e53b2458494fc3c849c9b986d":{
+      "scriptId":"u187"},
+    "4c6f77abcd534b05860e4be411566657":{
+      "scriptId":"u188"},
+    "b560756febcf4d7e85d3e8679e3c7962":{
+      "scriptId":"u189"},
+    "182ed641e8e942a3b66011d8b37a9c72":{
+      "scriptId":"u190"},
+    "150fd81c9dd94bb5a1aefa4bace817ef":{
+      "scriptId":"u191"},
+    "175e1e2f0e474c158410062609cb6d61":{
+      "scriptId":"u192"},
+    "c7889c91abf440509518f4c876581b1a":{
+      "scriptId":"u193"},
+    "e9651d9ce2024042a60edc1f3b52195e":{
+      "scriptId":"u194"},
+    "fd68a3adb61e4331804fe8af978170ac":{
+      "scriptId":"u195"},
+    "05c2fdbb91064a699bb4a0c3d6d1d110":{
+      "scriptId":"u196"},
+    "2cfba6c4dd9b411ba820a8e7b362f156":{
+      "scriptId":"u197"},
+    "ea6bdee60fb143499818f051e535c4d1":{
+      "scriptId":"u198"},
+    "5da31a7f145542939380b0948130dc0c":{
+      "scriptId":"u199"},
+    "0622eadff12142e99e3b83165285c3f5":{
+      "scriptId":"u200"},
+    "c565be8a844d4d6aaba268ce68a0f4da":{
+      "scriptId":"u201"},
+    "291290cb81a5460b80acc7d82fb4c943":{
+      "scriptId":"u202"},
+    "6cf08c602dff4708bffa43ba858bf106":{
+      "scriptId":"u203"},
+    "903097c79c574d26b680b541204d8f3d":{
+      "scriptId":"u204"},
+    "c14710a6333d44bfa7afd6988699d0dd":{
+      "scriptId":"u205"},
+    "24ab63d5b859494a919a12aeb3fe30e1":{
+      "scriptId":"u206"},
+    "aac9f2b4ec064722ae28edfebb3935bb":{
+      "scriptId":"u207"},
+    "6e9029f4284846b1991a4ecd58a0d7d2":{
+      "scriptId":"u208"},
+    "62d2aa0e7bb14a0f877c7e358a95a16c":{
+      "scriptId":"u209"},
+    "a30ab7240bc94a14afb63014e6c7d558":{
+      "scriptId":"u210"},
+    "c61ec8d8b12343beb1281b41adfcbcff":{
+      "scriptId":"u211"},
+    "6ef5f572529c408fb402b552b5b27385":{
+      "scriptId":"u212"},
+    "bed6fd3283df4cd59d01b473f37222b0":{
+      "scriptId":"u213"},
+    "d01f117488b34b3abb66cff16b147d1c":{
+      "scriptId":"u214"},
+    "5f15c7e126604fc2bc12fe6fa0968c00":{
+      "scriptId":"u215"},
+    "c405189dad8c4dc7ae1252f630b7e4c6":{
+      "scriptId":"u216"},
+    "4c2118c9537645468880a87216f85e7c":{
+      "scriptId":"u217"},
+    "1fe20bc1e5dc4b28837ad05c9345fc3c":{
+      "scriptId":"u218"},
+    "6be5ce2fe17e49ff9710fa871e9ac15d":{
+      "scriptId":"u219"},
+    "8c2fc339e49b4e30adba18c175416226":{
+      "scriptId":"u220"},
+    "49067ab7ac314ae68da3d99a5e7a1b99":{
+      "scriptId":"u221"},
+    "8b57b67afde748d4bc61ad6f933370f3":{
+      "scriptId":"u222"},
+    "5ce4e8af87794e9fa07c1bf04f2510cd":{
+      "scriptId":"u223"},
+    "e497d98c041e494c9de05944f3c47c3d":{
+      "scriptId":"u224"},
+    "0f89f08e7565401784e7e1f28ce46e8c":{
+      "scriptId":"u225"},
+    "445e1e3b3fb64973b5dedee47a551f66":{
+      "scriptId":"u226"},
+    "2b89493c9baf438ba2e8308e97d96eb5":{
+      "scriptId":"u227"},
+    "48c5225583cd4aa49d4411613e2171bf":{
+      "scriptId":"u228"},
+    "ec7e9cc181474907a83adddfe254b5d2":{
+      "scriptId":"u229"},
+    "587648a177d6496e8fc399f8cc175dd1":{
+      "scriptId":"u230"},
+    "a8b41284479145369fdd9c360f399c37":{
+      "scriptId":"u231"},
+    "c814a8da65a74b0b8c67924acaa4183e":{
+      "scriptId":"u232"},
+    "d6814562c25c49e684752c8cc19e212a":{
+      "scriptId":"u233"},
+    "9e6959de3cbd4427a76a032ba70972b1":{
+      "scriptId":"u234"},
+    "22551fb89f92411e86d7c327fe2af29e":{
+      "scriptId":"u235"},
+    "96dfe80d61504f55813c93e87557c413":{
+      "scriptId":"u236"},
+    "cb186d9409a74ad0b5550b5ee13566bd":{
+      "scriptId":"u237"},
+    "c12290012ceb43e3b298280168aa6e9e":{
+      "scriptId":"u238"},
+    "fc467d205c584eddbe10a9578d0d8f80":{
+      "scriptId":"u239"},
+    "5ae46513d2274fb486971bd35b20d25a":{
+      "scriptId":"u240"},
+    "0e15836d99834e4c98660bfae2c720c3":{
+      "scriptId":"u241"},
+    "ad6fd1f1e68a4143892d2435bac9f160":{
+      "scriptId":"u242"},
+    "5fa94bfccd95415e9f5263192d82dfc0":{
+      "scriptId":"u243"},
+    "60a709107e214a2e915a28c8db1aa324":{
+      "scriptId":"u244"},
+    "a72e95eb3929408592469795a35dc31f":{
+      "scriptId":"u245"},
+    "e809c8b5d2a449c3836a9c75adc7ca84":{
+      "scriptId":"u246"},
+    "12a66cc3fe4841f094919ac84e81d8ba":{
+      "scriptId":"u247"},
+    "21ca0cca2edd4ba8aacdf38150eff349":{
+      "scriptId":"u248"},
+    "c405062d9b674f4598a9bd6fc0726a62":{
+      "scriptId":"u249"},
+    "28874cd48131448d85fca454362c1ef6":{
+      "scriptId":"u250"},
+    "fa218854a78a49c98315664504284eb4":{
+      "scriptId":"u251"},
+    "e85468ac4a034d46957ca2152c1eb174":{
+      "scriptId":"u252"},
+    "3b0caa300bea4249a6916f5f005fbb4f":{
+      "scriptId":"u253"},
+    "cd9cbed57945421bbe12dbc63af2d9d8":{
+      "scriptId":"u254"},
+    "d017b16371614980ae7b3dcf0497ee61":{
+      "scriptId":"u255"},
+    "ad3fa74194bb4914ad184953e2364aab":{
+      "scriptId":"u256"},
+    "4132de4ebd94467e9d92e45440d9fbbb":{
+      "scriptId":"u257"},
+    "827593eba33a485ba18780cfd0edb075":{
+      "scriptId":"u258"},
+    "4a63f7049ffc454498a84896f5af4338":{
+      "scriptId":"u259"},
+    "232910527043418fba7b068c4d19aa25":{
+      "scriptId":"u260"},
+    "96da5d14930b4ce7b3db191e35c7c198":{
+      "scriptId":"u261"},
+    "52099317e14c49ee9901d67801c8959c":{
+      "scriptId":"u262"},
+    "d9c36ea054a84868acce9a8617524de9":{
+      "scriptId":"u263"},
+    "2fc06904c17244078022601e69b6a769":{
+      "scriptId":"u264"},
+    "32bc73c6be214edfa72d85eaa5dea9f9":{
+      "scriptId":"u265"},
+    "a91404f87d644c1489ed85079a5fd937":{
+      "scriptId":"u266"},
+    "16a6e47f9e1f487a97a4e98d00071ec3":{
+      "scriptId":"u267"},
+    "57b8780e4aad41ada1d74d276eb088f4":{
+      "scriptId":"u268"},
+    "43e9a01e876f4472b8045dad9f3597bc":{
+      "scriptId":"u269"},
+    "0623d8e9fa8340ec8e0ba29fe70bade0":{
+      "scriptId":"u270"},
+    "6e3d10eaeed0478cb1e0fd99dabeb607":{
+      "scriptId":"u271"},
+    "60caf514cf054c84a747aed3b72150a5":{
+      "scriptId":"u272"},
+    "9bc565cbef3f4ec5a84fd9737fac8bfe":{
+      "scriptId":"u273"},
+    "7bbc0faa2caf41468035033bc249ddfa":{
+      "scriptId":"u274"},
+    "6abec27328de471d80fbfa9bc39ed1e2":{
+      "scriptId":"u275"},
+    "9f7ebe57ed044f68839a2a637db05d95":{
+      "scriptId":"u276"},
+    "316f771d4a2a49748f294746e5d2fa46":{
+      "scriptId":"u277"},
+    "95ecad4619754345959cfff7839f43b8":{
+      "scriptId":"u278"},
+    "92c08b6d39b24a8f8a0b80c49689a777":{
+      "scriptId":"u279"},
+    "8be534e8c4b04142977beed9f6799440":{
+      "scriptId":"u280"},
+    "8cd7d735520f4fc087b3c4a8fc8b3de1":{
+      "scriptId":"u281"},
+    "4e2ff1188ccc4ee0bdd246383f6aa87d":{
+      "scriptId":"u282"},
+    "8cc2c96e43ca4b88b0519996f1002213":{
+      "scriptId":"u283"},
+    "fef60df19d614aca912e92672cfc73e0":{
+      "scriptId":"u284"},
+    "884e8f2a23a945d68929368d8c75d05d":{
+      "scriptId":"u285"},
+    "c29a8125fc384cfe9c6b916273c8bfd2":{
+      "scriptId":"u286"},
+    "b07bae7438f64bbb87237b253073e9e8":{
+      "scriptId":"u287"},
+    "cef347a8a83249d29f06b3906be84abc":{
+      "scriptId":"u288"},
+    "0c9f4ba8fc1a4ab6965dca4b246e6369":{
+      "scriptId":"u289"},
+    "a66b1402f45849b8b147048cd2bc53c5":{
+      "scriptId":"u290"},
+    "9e53520ee1a542f7b3f83164f643a59b":{
+      "scriptId":"u291"},
+    "c8f47873336f4547b088149c7c62435e":{
+      "scriptId":"u292"},
+    "06e758ad669f4a85a20fd7785a7cbb0f":{
+      "scriptId":"u293"},
+    "98b8d506971649a693dc97b960d71a65":{
+      "scriptId":"u294"},
+    "44a252375ba44c1fb5b82deba378a024":{
+      "scriptId":"u295"},
+    "4e5b0c7496d74613aa95d877eeb99d2e":{
+      "scriptId":"u296"},
+    "ff00d350fa3547549fbfc81eb3133121":{
+      "scriptId":"u297"},
+    "d5cc3f2e41bf4c8cb17a66ae65b40cce":{
+      "scriptId":"u298"},
+    "0150a88b0dd44bdf824420fc1e59b5cc":{
+      "scriptId":"u299"},
+    "2bec6b9f351f40c0985b56d2fa4bb545":{
+      "scriptId":"u300"},
+    "2132caa073cf4c44a5d817559a0013fb":{
+      "scriptId":"u301"},
+    "cc5f50a65d54471996a5e447af2f17d2":{
+      "scriptId":"u302"},
+    "bc945c4343c84f188f8bce24104ff376":{
+      "scriptId":"u303"},
+    "45e5f7e6309247dd95b6a502b63a454a":{
+      "scriptId":"u304"},
+    "a0e6ada41131475f890c409f7fe76989":{
+      "scriptId":"u305"},
+    "d829197fb2ec4779b807fee6173d2674":{
+      "scriptId":"u306"},
+    "5a9b4b06fc304b09a27dabd4a832878a":{
+      "scriptId":"u307"},
+    "aba8f7c191af4b509bfe42e09007892c":{
+      "scriptId":"u308"},
+    "c4f2a06622c74691874a6c8774ffb610":{
+      "scriptId":"u309"},
+    "d68d0c1baf83474e9e5e3a297438350f":{
+      "scriptId":"u310"},
+    "7737562b21f640fd89cf802ae1dedcf5":{
+      "scriptId":"u311"},
+    "437cedc522cb47348d41b32b5a6f548f":{
+      "scriptId":"u312"},
+    "fe0157f43fea4b1b936bdf5543303f8e":{
+      "scriptId":"u313"},
+    "beb4c22469cb469bb3576300dcca4e08":{
+      "scriptId":"u314"},
+    "7b2d6bb6160e4fd49fcd98c06537d2cf":{
+      "scriptId":"u315"},
+    "49f617648cdf4a6bbb9d6c9d538f06d7":{
+      "scriptId":"u316"},
+    "aae2985d601e42159f353054378ae6d4":{
+      "scriptId":"u317"},
+    "3c3688b922e64555ba30bc0654f1497b":{
+      "scriptId":"u318"},
+    "fc6934bb76c14a99bd209502f1363148":{
+      "scriptId":"u319"},
+    "3c66665df06a4625b75f052c07244ea8":{
+      "scriptId":"u320"},
+    "d43ad8570a644385a913dd1a94e2803a":{
+      "scriptId":"u321"},
+    "6cfcf717a671454d8e45689109531dd4":{
+      "scriptId":"u322"},
+    "136df12b4ccd493cb38430f4e2c5e6a4":{
+      "scriptId":"u323"},
+    "8007143a635b400a8502c37bba4dcad7":{
+      "scriptId":"u324"},
+    "c5c3a16fb17d43a0a8a4de555f1638af":{
+      "scriptId":"u325"},
+    "289a723ad2874a43a0f3e5d4c488100f":{
+      "scriptId":"u326"},
+    "84c4640ef0764c9db5969cbbf2a5b219":{
+      "scriptId":"u327"},
+    "f8eb49b4258b44ebb9165f0242eeb70b":{
+      "scriptId":"u328"},
+    "405946caf6b9488e8a902494099cd221":{
+      "scriptId":"u329"},
+    "38c6e5b7954a427d9e12f258c9fb47a5":{
+      "scriptId":"u330"},
+    "59d6f74cab344eab8fdefdaacf138d6b":{
+      "scriptId":"u331"},
+    "a268f4fd96ce44bfa61dc5b75e60ba11":{
+      "scriptId":"u332"},
+    "e57bf5b45abd4861870aa878561123fa":{
+      "scriptId":"u333"},
+    "1862c89ae6554485ae942b6ea272a2c8":{
+      "scriptId":"u334"},
+    "4ddbdfce775b4956b2372355ac0ae4ea":{
+      "scriptId":"u335"},
+    "c98e98df559a44039abf6357c8b8f85e":{
+      "scriptId":"u336"},
+    "7888bb0d5e6d40aca508163c97a90fea":{
+      "scriptId":"u337"},
+    "2f95ef52bcdb4733bc743f1e9125519c":{
+      "scriptId":"u338"},
+    "51afee515e814bf0a96aa9514631baaf":{
+      "scriptId":"u339"},
+    "693c29e21b7d4cddb928e15fe7225293":{
+      "scriptId":"u340"},
+    "19fe2212d2ea44b3a01acb62c34838b2":{
+      "scriptId":"u341"},
+    "ab2ce498e098471d83f83b67c327d417":{
+      "scriptId":"u342"},
+    "647292a2978e426ca48c529eee8f054d":{
+      "scriptId":"u343"},
+    "019ceb2f76fd48e09322ae2c912e10cf":{
+      "scriptId":"u344"},
+    "ec214666b3774a718bd1cfe019e502fc":{
+      "scriptId":"u345"},
+    "29d499b99e674a959d9251f24895d3cc":{
+      "scriptId":"u346"},
+    "53cdd8ef85a8474b9ac50e007133afdc":{
+      "scriptId":"u347"},
+    "24a7bf4394a74882ad129a5c981c3e65":{
+      "scriptId":"u348"},
+    "eca608cee5794dafb337a4a7558783f9":{
+      "scriptId":"u349"},
+    "509e717b7b1b45c5ac608cd2293317fa":{
+      "scriptId":"u350"},
+    "30df08bc0e2949e1b916a6576c0b1514":{
+      "scriptId":"u351"},
+    "7abc38ce3edf4e19b3f85aca82a4a74b":{
+      "scriptId":"u352"},
+    "b4ebd6a39b234fadb9545fc47024a49a":{
+      "scriptId":"u353"},
+    "ffb1504ad0b942d7a6cd8fa9f50ae3d4":{
+      "scriptId":"u354"},
+    "c21edc11a3a94c30834fe22e94489b36":{
+      "scriptId":"u355"},
+    "af82d977439e4ce7b553c79ceb59f77f":{
+      "scriptId":"u356"},
+    "db2c9355d4434fc8839ed0ee0805cd57":{
+      "scriptId":"u357"},
+    "2905981b03a34008bf3bae85166b3cd0":{
+      "scriptId":"u358"},
+    "62b5a8df1ff74a16bc8f75e62e789c86":{
+      "scriptId":"u359"},
+    "63f130f6fbf6495c81994d7af38a2708":{
+      "scriptId":"u360"},
+    "13ad285a49094897afe5bb30b27fb005":{
+      "scriptId":"u361"},
+    "cb3316fb0e9c48e1a120c7fe16d796c3":{
+      "scriptId":"u362"},
+    "c9b901b038944a2f9a8be4731276d05e":{
+      "scriptId":"u363"},
+    "03292442cab54ef4b4665996ca2b67d9":{
+      "scriptId":"u364"},
+    "341519ff19394a8daf3a2ae9876104dd":{
+      "scriptId":"u365"},
+    "b1911e68ff0d4040bbfc754ebbe84dff":{
+      "scriptId":"u366"},
+    "c659c858e8fe451aa8773d078eacb03f":{
+      "scriptId":"u367"},
+    "cb2aa72dff474a5783a99d7c57199d6c":{
+      "scriptId":"u368"},
+    "e0d9d7679eff494fab394205ba8c8b89":{
+      "scriptId":"u369"},
+    "0ec84f8f8c7244b5895b2403083b83ca":{
+      "scriptId":"u370"},
+    "5140f9f642da4abfa18860904e3a5a17":{
+      "scriptId":"u371"},
+    "fe0f8035859a4ea5a9aaf6da28ebfbbe":{
+      "scriptId":"u372"},
+    "dcc1af6aa7cd49b2b400b19c1564d1f8":{
+      "scriptId":"u373"},
+    "8584c9c6a7c44938af7b94241bc7d500":{
+      "scriptId":"u374"},
+    "859dd68890b047db8dda7d27d91b7f76":{
+      "scriptId":"u375"},
+    "acaa1665c67b452f97b8fe62a3d53e28":{
+      "scriptId":"u376"},
+    "f3e2e1ce67f34ed7ae0b346af98319ba":{
+      "scriptId":"u377"},
+    "d9cbf392159e4f98ad2b90cb27afc879":{
+      "scriptId":"u378"},
+    "195ec7e7d1bf4c9892423bb73baacd58":{
+      "scriptId":"u379"},
+    "55972c615a92483e890a593f2c73b389":{
+      "scriptId":"u380"},
+    "055e08d1b8e5403a87db4c7592ae7a38":{
+      "scriptId":"u381"},
+    "76ca5dc0039e42698f1d6a223cf2b2bf":{
+      "scriptId":"u382"},
+    "914764d43d3b45618f7d55e47fc02feb":{
+      "scriptId":"u383"},
+    "356e257f216b4e5ebb24b0bd2c6e8f99":{
+      "scriptId":"u384"},
+    "93e384ed0fa9424eb1f204f3d404193d":{
+      "scriptId":"u385"},
+    "64739fd143b14f419bc78dbe31bca05a":{
+      "scriptId":"u386"},
+    "c5541e3e668541f1962c1e4eb7bfa250":{
+      "scriptId":"u387"},
+    "9d4302928ec844a08e0156a7eb95f508":{
+      "scriptId":"u388"},
+    "9f3283a2c6ad45feb279ddab33123942":{
+      "scriptId":"u389"},
+    "445c8acb3ccb4b7a849d707ee082732e":{
+      "scriptId":"u390"},
+    "188e0c1844c34472b69a49847be68033":{
+      "scriptId":"u391"},
+    "5a243a6606eb4b2092a75a9534887a1b":{
+      "scriptId":"u392"},
+    "5abe6b766368422b87a3a04db204134e":{
+      "scriptId":"u393"},
+    "c4f217bb0d6e49698cb4c0bfd19d5542":{
+      "scriptId":"u394"},
+    "9a81f268e402467da8dd0d81adca5f40":{
+      "scriptId":"u395"},
+    "64e26c994e544f31ba4f57692c01aaff":{
+      "scriptId":"u396"},
+    "1fe34864ebd84659a65ea7ddf78f945f":{
+      "scriptId":"u397"},
+    "8c9a621963a64045b0b3248186f73677":{
+      "scriptId":"u398"},
+    "de472bb612a24148a7e50e5f13c53f46":{
+      "scriptId":"u399"},
+    "fef10f49356944928a81e8b6423a6aa9":{
+      "scriptId":"u400"},
+    "2fc0edf224464018802be2135d92c46f":{
+      "scriptId":"u401"},
+    "7f19d32e497b4e2da9be4bb94dd518a1":{
+      "scriptId":"u402"},
+    "3e076564a1024cd582059c545fc24abd":{
+      "scriptId":"u403"},
+    "e629100f72c0419bb167d960cef75bed":{
+      "scriptId":"u404"},
+    "6f6fd9472ccf4074967ea6329d4c2b8e":{
+      "scriptId":"u405"},
+    "516a6e33d5b14c62b2b8686685f7be11":{
+      "scriptId":"u406"},
+    "88b0c610b3644b9f9f4e0fee24e365b4":{
+      "scriptId":"u407"},
+    "004ffa071b13480685d4997c0ca0469b":{
+      "scriptId":"u408"},
+    "6ba864e6b73a4d2d960f9683323ff91f":{
+      "scriptId":"u409"},
+    "9b31c15d89c044e1bbd5b248d1846eca":{
+      "scriptId":"u410"},
+    "f04bfcfc1ad5435581a5d2b800562156":{
+      "scriptId":"u411"},
+    "c22e18edf7844e12b0b3bca17cb52008":{
+      "scriptId":"u412"},
+    "d8ceba83840f40c595d2fa03b39d1f8c":{
+      "scriptId":"u413"},
+    "8251446b6cd842fb956c3eb017281460":{
+      "scriptId":"u414"},
+    "3436d3604baf439b8d0c51a73da7d94f":{
+      "scriptId":"u415"},
+    "f754e07edde14ddead37425fbc821a55":{
+      "scriptId":"u416"},
+    "821a51b9e8ea4024be1352cca6d60973":{
+      "scriptId":"u417"},
+    "dcc105add804432fabed393239284bb9":{
+      "scriptId":"u418"},
+    "486a85b847304448b9986cc2bb1436d2":{
+      "scriptId":"u419"},
+    "49d89a8e1e2c492a878b2b89d5295469":{
+      "scriptId":"u420"},
+    "39e10c46aa2f48568e86126a3c989fa7":{
+      "scriptId":"u421"},
+    "074b9b7d9be244abae6186a260488f0d":{
+      "scriptId":"u422"},
+    "50327ccfeaae4b4fb2ca82569dab3cde":{
+      "scriptId":"u423"},
+    "bc074c1997d649ba86ba0840bb26e909":{
+      "scriptId":"u424"},
+    "033a7afda2ee41fead190b4c6d89a950":{
+      "scriptId":"u425"},
+    "cf4f4fb6249d4e8fb79a7162a7c0390f":{
+      "scriptId":"u426"},
+    "1be365340fa04b2d8de44904bd898635":{
+      "scriptId":"u427"},
+    "10098f00264f4089984dfd34c35da715":{
+      "scriptId":"u428"},
+    "e55cdca5ba7f463e9db13aea8f48496a":{
+      "scriptId":"u429"},
+    "666746380e7c4b9697a2cff9acc20448":{
+      "scriptId":"u430"},
+    "b7de99d14748454b8a30a4abfbeb441f":{
+      "scriptId":"u431"},
+    "15adb37eedea43de84fc229a0ae9b17b":{
+      "scriptId":"u432"},
+    "82d8c7d22b9347458e6815d2c5a4750f":{
+      "scriptId":"u433"},
+    "b8f79ee59d634bbd8de973c9baf26b17":{
+      "scriptId":"u434"},
+    "5c0d7ba9a3d84794b0e6f924a68c102c":{
+      "scriptId":"u435"},
+    "4567a3ea3e1143c4bb6ea5c6d1c5ad24":{
+      "scriptId":"u436"},
+    "40f4cc702a7e46ddb1949822c8adf847":{
+      "scriptId":"u437"},
+    "9dc28be6388a468890a77aa10ba02db5":{
+      "scriptId":"u438"},
+    "cde3b7f422784386b79c26a542fc9dc4":{
+      "scriptId":"u439"},
+    "9a6a19dc40054ad3bcc9c673b6f969cb":{
+      "scriptId":"u440"},
+    "9b4ff9fedd4c416bac3634ff304e7d8d":{
+      "scriptId":"u441"},
+    "d5e742d739e14b1a90cf29ca20d13e20":{
+      "scriptId":"u442"},
+    "18c6910e4b694ab1ab2f6385ef4f3cc7":{
+      "scriptId":"u443"},
+    "0bbe7089303a4a6e9f8dbf5ebb8c1d5c":{
+      "scriptId":"u444"},
+    "646f579b4ea649598e499855ff1f9b85":{
+      "scriptId":"u445"},
+    "d659cd465d004f23bc735078569166b5":{
+      "scriptId":"u446"},
+    "536da030671648f89f0879ee4c086e19":{
+      "scriptId":"u447"},
+    "d34f6ae4dfc14c098a9ea44e882c10ee":{
+      "scriptId":"u448"},
+    "c7b6566de7d94d71b34afb2b695b8190":{
+      "scriptId":"u449"},
+    "27b32fb254664a1da64b93d162956599":{
+      "scriptId":"u450"},
+    "361c03f6a01a4c36b7a3c70c9df3c059":{
+      "scriptId":"u451"},
+    "a365c0d7553f493bad9c188772242692":{
+      "scriptId":"u452"},
+    "5be33ccc37ef42e8bace6caa7e06ed72":{
+      "scriptId":"u453"},
+    "ef25e69d648b4f3388d69af3948df52f":{
+      "scriptId":"u454"},
+    "0c0d74ade3ee4ae2bdfcd7196f1e4cc7":{
+      "scriptId":"u455"},
+    "34fbca367b0741a78291ecaa3a871732":{
+      "scriptId":"u456"},
+    "6b81f1c5316c497eace42d68193f62bc":{
+      "scriptId":"u457"},
+    "9ab8badef7b7435294fa3fe1545a0a89":{
+      "scriptId":"u458"},
+    "162c369f511f49d09979f941750d2f8e":{
+      "scriptId":"u459"},
+    "2fa604a5885943b5b7e9d5522f00a902":{
+      "scriptId":"u460"},
+    "8d6d8d014cce48d5990bc3d64649bc20":{
+      "scriptId":"u461"},
+    "d601417508ca4963ae31a64ec3a6c18e":{
+      "scriptId":"u462"},
+    "c9231418a43f4bbab6e64c5284c503ef":{
+      "scriptId":"u463"},
+    "f06321a40a9541c18b99a34c81853e1b":{
+      "scriptId":"u464"},
+    "ea5c2d369a3f43e5ad1e35f410178adb":{
+      "scriptId":"u465"},
+    "caece19990c743c6bf60bad522ee108a":{
+      "scriptId":"u466"},
+    "bdbca6f01ad249d3aed6694cd5199d5b":{
+      "scriptId":"u467"},
+    "d6b2f45fff6f462eaabba23335028d09":{
+      "scriptId":"u468"},
+    "f010befb08eb42a6964b78db75840a3a":{
+      "scriptId":"u469"},
+    "41c28b48258641e6b16ca05341fa02f1":{
+      "scriptId":"u470"},
+    "e9e3ba783b6c4928a2437e5fb5960fd4":{
+      "scriptId":"u471"},
+    "83763b5b39454b268cdb8063dd6af3a8":{
+      "scriptId":"u472"},
+    "593942aa687d4d38938a0fdfc10c940d":{
+      "scriptId":"u473"},
+    "3495cd5ba2464a5b9ec3329633604600":{
+      "scriptId":"u474"},
+    "ff5a91ac0c264e81a6e9943096134b13":{
+      "scriptId":"u475"},
+    "d04229010956433f8d3d19dbdeb4ea2e":{
+      "scriptId":"u476"},
+    "b47f7b1002b44764b46690b0b9db9137":{
+      "scriptId":"u477"},
+    "a8f79a0b5f984d7489984f231522a708":{
+      "scriptId":"u478"},
+    "f43b1a8c05144475bd4e1b59e06cdce5":{
+      "scriptId":"u479"},
+    "d45678e3921f4c76bf84edd9818ef890":{
+      "scriptId":"u480"},
+    "d700a33c2b484f5393f6327eb67c0718":{
+      "scriptId":"u481"},
+    "b02f45fb22824c93817c2ef1ba0da1be":{
+      "scriptId":"u482"},
+    "4673cf8206fd4fc9a9a6b86797ddeb1c":{
+      "scriptId":"u483"},
+    "34ee07169a2b451290ccfb6032e92c82":{
+      "scriptId":"u484"},
+    "bb13f3523e9e4ed1ac443cfb275e62b2":{
+      "scriptId":"u485"},
+    "fcfb35d9137e4784857402efbcbef53d":{
+      "scriptId":"u486"},
+    "afea0ad0201b4ca498a1f37789c726c2":{
+      "scriptId":"u487"},
+    "a9ce0f9156f649d4ba52f7031bf62ca9":{
+      "scriptId":"u488"},
+    "1d30088a0e3342fc994ae00281816df8":{
+      "scriptId":"u489"},
+    "78df02cc55534bcfadc1e85dddad4a85":{
+      "scriptId":"u490"},
+    "ed65096ee51142d1885d70448f662c52":{
+      "scriptId":"u491"},
+    "a8789534bd834918980aad0c9ccc2eae":{
+      "scriptId":"u492"},
+    "0f61e01c023b4768ad9a0489a2d436a8":{
+      "scriptId":"u493"},
+    "9cb7fdf21dcb49d9975bd6034aa2ac5a":{
+      "scriptId":"u494"},
+    "05a2292e771c40b8a7213bb57bcff6ec":{
+      "scriptId":"u495"},
+    "04fa6534b17e463fb0a3bf2573a8e609":{
+      "scriptId":"u496"},
+    "b2ac048494dc43c9a28ad5bcb521f9b8":{
+      "scriptId":"u497"},
+    "b908b40a62ef476680cece13574e9d4d":{
+      "scriptId":"u498"},
+    "ded8586d1abe4be78a5b003ba3695668":{
+      "scriptId":"u499"},
+    "bb01f0944e7846e7afa4a24d0f6d775b":{
+      "scriptId":"u500"},
+    "4369df42406445339ab5fa882912b151":{
+      "scriptId":"u501"},
+    "58ef3b93dcba4ab2919285fff24d2946":{
+      "scriptId":"u502"},
+    "54168207eb1a483b98df98019c016620":{
+      "scriptId":"u503"},
+    "fec1c15b04b8497d9622b0a88255522d":{
+      "scriptId":"u504"},
+    "ae927b750a6b42e1b6ddfdee91944d2d":{
+      "scriptId":"u505"},
+    "01ee22d389584ed8872a6c1a87847dd0":{
+      "scriptId":"u506"},
+    "655cde55302a41aea25fa8320180c180":{
+      "scriptId":"u507"},
+    "3c2b32c830024eb686944c8e39fbb361":{
+      "scriptId":"u508"},
+    "41b14e41ef8e4350bcc4793d73a3d3e8":{
+      "scriptId":"u509"},
+    "0511867952f841a78966d0d35e1d24a2":{
+      "scriptId":"u510"},
+    "e7d5015a6edb43c1a9c9ded5e1c810da":{
+      "scriptId":"u511"},
+    "00cf7da3933c4b16ba8e42bee63b1a2f":{
+      "scriptId":"u512"},
+    "9735c873ed8546b486fdd959ca9bb8b2":{
+      "scriptId":"u513"},
+    "bd1a8b33581543c0b77ba905ffdc35bc":{
+      "scriptId":"u514"},
+    "03521fc0bc994b40865431d2aac95758":{
+      "scriptId":"u515"},
+    "2eb98788923f4269bc6fce00be52e448":{
+      "scriptId":"u516"},
+    "8ca0cda2ab2746acb911fc49d70c4d65":{
+      "scriptId":"u517"},
+    "31434b22f92a449dae38e9357782c973":{
+      "scriptId":"u518"},
+    "187d75c89422464fad4ae6eb30355e02":{
+      "scriptId":"u519"},
+    "47e6df3d965849a4a0a31a7b51c68907":{
+      "scriptId":"u520"},
+    "596fcde24fa947a68d58b05546cad060":{
+      "scriptId":"u521"},
+    "64dec18f67cd46fea375fd268f3030ce":{
+      "scriptId":"u522"},
+    "2a3a1ce94b954c7890ee40d3047a276d":{
+      "scriptId":"u523"},
+    "aac94779c3fd42fc841868f7f3c49641":{
+      "scriptId":"u524"},
+    "12b60608faa341fb9417b528e1527dfa":{
+      "scriptId":"u525"},
+    "8b81a8e8e53f4045817a404e36565c51":{
+      "scriptId":"u526"},
+    "8d6878128dac4d0cacbbca0c5b74e8ad":{
+      "scriptId":"u527"},
+    "97a28ae471424bd29484723524d6dbff":{
+      "scriptId":"u528"},
+    "8c6c1926659b4bf2b50336664d5c90ee":{
+      "scriptId":"u529"},
+    "378d6e231bf04f81a0fbd41d10c44061":{
+      "scriptId":"u530"},
+    "82e1efb4c7bb4f11a2297e0c519bc0e6":{
+      "scriptId":"u531"},
+    "60a5944df4724af9b20ebae92026a74a":{
+      "scriptId":"u532"},
+    "b590c00d98f748bb8df326e8d36b0e94":{
+      "scriptId":"u533"},
+    "c7b7ab3a46264725ba57d9148841549c":{
+      "scriptId":"u534"},
+    "a1ab9947bc7a43ce881ac7a45af26b1b":{
+      "scriptId":"u535"},
+    "04e0b178a7844fa2b31f2b8580a55702":{
+      "scriptId":"u536"},
+    "b66b0f935b8447d1ac6743a7f94d7c40":{
+      "scriptId":"u537"},
+    "0fa421d9758d4ad6b351646571ff4174":{
+      "scriptId":"u538"},
+    "1aa56cee4c98429781df8a4ee5892ee0":{
+      "scriptId":"u539"},
+    "8c9b46f9f8d144d6a40cd230f1377040":{
+      "scriptId":"u540"},
+    "828da6a47cc7409eb6d50fa0c500e0bb":{
+      "scriptId":"u541"},
+    "c25019d60a124c0086eb9675c4d24e42":{
+      "scriptId":"u542"},
+    "6012b0c36f90475a93269e829a6b95eb":{
+      "scriptId":"u543"},
+    "caa730f4a4224aaeaded60587b604aa8":{
+      "scriptId":"u544"},
+    "0114a47cd90341e29b6dd0ba9299b72b":{
+      "scriptId":"u545"},
+    "230550aa2c854590a6e61227e4248a29":{
+      "scriptId":"u546"},
+    "ce0d7b9897954e4d9def88673b11a4ba":{
+      "scriptId":"u547"},
+    "5bacbd7ecd6d46bcb138d40f00711194":{
+      "scriptId":"u548"},
+    "404065d7a021456282ed91b366b68c2d":{
+      "scriptId":"u549"},
+    "fb9f7e08a83c4cd7b40d8110ed765fcc":{
+      "scriptId":"u550"},
+    "0cdda14554e34787a69a27620fa47e10":{
+      "scriptId":"u551"},
+    "ca31cf965eba4b5b96e36ea32dc74617":{
+      "scriptId":"u552"},
+    "7145161332904e65a9ee080a8a5496ca":{
+      "scriptId":"u553"},
+    "d077c3c60ac645c88b68f31cf51f3220":{
+      "scriptId":"u554"},
+    "ba698618a4944b0c8aee6704028536be":{
+      "scriptId":"u555"},
+    "08b235a26eb2417daacf4596e7941f53":{
+      "scriptId":"u556"},
+    "fd164417415f4b2fa2b69a679bb05d6c":{
+      "scriptId":"u557"},
+    "e8c28b76018b4676a2e967c48b4fc4c4":{
+      "scriptId":"u558"},
+    "6f7ef67944864a6ca0cb977ed8d389ff":{
+      "scriptId":"u559"},
+    "cb802c0d78a640baaba842225d3db61a":{
+      "scriptId":"u560"},
+    "cd0e976bf47c449497bbf562779c1d09":{
+      "scriptId":"u561"},
+    "ba9b55579cc043cea58304bac0b3f8d9":{
+      "scriptId":"u562"},
+    "bc43285ef3e144a5a5ca4134ff747dd6":{
+      "scriptId":"u563"},
+    "0573d56766744f5caa885bb4fad1f9f8":{
+      "scriptId":"u564"},
+    "6fa6728d8d194df0a5c0c138846300eb":{
+      "scriptId":"u565"},
+    "358cb23410fb4ce087ad5b5750ee337d":{
+      "scriptId":"u566"},
+    "7ae606c858d347ff965f2e4b8d68ad36":{
+      "scriptId":"u567"},
+    "4e3f477c30f344e38f4e3d1e455ff1cf":{
+      "scriptId":"u568"},
+    "a0d90b83fe2c43fcb89a9db0e1d6381e":{
+      "scriptId":"u569"},
+    "f5bbf1ca2f7e489da0baf0c3816fb980":{
+      "scriptId":"u570"},
+    "4adbadc963804ab9868a00817b743db7":{
+      "scriptId":"u571"},
+    "31f1f711f2634abb879a6a39efbcd5c8":{
+      "scriptId":"u572"},
+    "d77511c696be4d9d90fd5b291e897170":{
+      "scriptId":"u573"},
+    "ad172f760c6d48dca89329cd702277fa":{
+      "scriptId":"u574"},
+    "b9abcd78bcb248649412c94968c7e5d1":{
+      "scriptId":"u575"},
+    "868752457e634fc2a441175b21b36928":{
+      "scriptId":"u576"},
+    "e21132abe9814f9c85243f91d4481a99":{
+      "scriptId":"u577"},
+    "5d896834517e429bb49ac80594db7bfe":{
+      "scriptId":"u578"},
+    "e8360ec810244f6bac96dcb3ec20d3cc":{
+      "scriptId":"u579"},
+    "e80a6e06ec9240579df8318ab7924029":{
+      "scriptId":"u580"},
+    "87335e37132242cfbbdc16e2e1ec1ca2":{
+      "scriptId":"u581"},
+    "cb9a3a34814b432fac388f8c8983d919":{
+      "scriptId":"u582"},
+    "e6fafe8560384a3d8e35d45315501ca5":{
+      "scriptId":"u583"},
+    "c428537ac12f4163ba8683a4a848c3a1":{
+      "scriptId":"u584"},
+    "b04edc46329d4937a30c99261db9ded9":{
+      "scriptId":"u585"},
+    "9d6cb37eaa0947d2b41c506e874df035":{
+      "scriptId":"u586"},
+    "faec64cf05f9400a90e1cfeab1b00c01":{
+      "scriptId":"u587"},
+    "93f43087ef3f4276b11b6901852f8120":{
+      "scriptId":"u588"},
+    "fa82292df3a04f2b99f5ef97a076fa99":{
+      "scriptId":"u589"},
+    "883af1687a1343579f67e65f7f65fe60":{
+      "scriptId":"u590"},
+    "4bf03c3b6f5545299c99ae57cd704a99":{
+      "scriptId":"u591"},
+    "71a697584e0d422db80437349fb7959c":{
+      "scriptId":"u592"},
+    "005374e75cef4943b62cfb2f759df6da":{
+      "scriptId":"u593"},
+    "6f01744427f849ad97f648de49771036":{
+      "scriptId":"u594"},
+    "3d2d2f8f8096477088c2399f23000f66":{
+      "scriptId":"u595"},
+    "3f656f5c6f4b4273a7cff26a07d0c938":{
+      "scriptId":"u596"},
+    "e18c2d5cc7c24b22b64ef1fb217f9a9a":{
+      "scriptId":"u597"},
+    "5269bde44cf748f8b1676ce0122fa5d8":{
+      "scriptId":"u598"},
+    "48d9648405bb457b98908adeba8bda37":{
+      "scriptId":"u599"},
+    "0f17c0592a6b4faf9b9cc9116e92c990":{
+      "scriptId":"u600"},
+    "05a197eb85f14ef0af042af5efa3a487":{
+      "scriptId":"u601"},
+    "861027516d7148deadf57ed996f1f6aa":{
+      "scriptId":"u602"},
+    "c80320c4a4d24bf3b78b6717882f4757":{
+      "scriptId":"u603"},
+    "c22a86db9a2d47868986e082254ec9f6":{
+      "scriptId":"u604"},
+    "e42e7beeeb2b4835951c912ef3e51c75":{
+      "scriptId":"u605"},
+    "52041d72d3c240ae8b0f1da0df61406d":{
+      "scriptId":"u606"},
+    "a53d962914ec4c458762311f107425cd":{
+      "scriptId":"u607"},
+    "bbf19ee5513848daa75c716a6db186db":{
+      "scriptId":"u608"},
+    "6cf2e005431e40c28bbebbbad05bdbe4":{
+      "scriptId":"u609"},
+    "930be1bf4778462f9680212d95ab26f8":{
+      "scriptId":"u610"},
+    "6cdc1a424bfc4c778b57fdad4707dd28":{
+      "scriptId":"u611"},
+    "d643533e58a849698857d6b6c3746853":{
+      "scriptId":"u612"},
+    "7d6e5baec9e14af099a62c67608497a7":{
+      "scriptId":"u613"},
+    "d6f56d22032f44eeb7b30f5b50427d97":{
+      "scriptId":"u614"},
+    "99e1be37a9a24e40bdde6c147133b6fc":{
+      "scriptId":"u615"},
+    "6f24e330b63545c281f69229fada46bb":{
+      "scriptId":"u616"},
+    "79d5764435db4654988fce6f25decd9e":{
+      "scriptId":"u617"},
+    "9ccbcc737fee4be4ab2be7c5e73a4028":{
+      "scriptId":"u618"},
+    "0369529dc9194eb4be3c05bc0f038995":{
+      "scriptId":"u619"},
+    "51c4f55459a744a5b25242581e3b29b3":{
+      "scriptId":"u620"},
+    "6113c7131ac14aafbdbecea8656a1965":{
+      "scriptId":"u621"},
+    "aa2744e57a93469cbc6d76c4cd3f160c":{
+      "scriptId":"u622"},
+    "7ccf0b3339084bcb90df06a12b8c8201":{
+      "scriptId":"u623"},
+    "6f42e6d3e8cd4966b720f6f4911cc529":{
+      "scriptId":"u624"},
+    "080ce457713a4ea39d7bfe9c7382df76":{
+      "scriptId":"u625"},
+    "f90062d3124e456fb106ef23ea01275c":{
+      "scriptId":"u626"},
+    "56c09e1554284d788e3e9150bd063162":{
+      "scriptId":"u627"},
+    "2cbfa6b59bdc479990838b8418b50dc5":{
+      "scriptId":"u628"},
+    "a8441e62b54c43a89450bd009dcdb486":{
+      "scriptId":"u629"},
+    "ab1833b6cc53497fb0ad8fed93811a4b":{
+      "scriptId":"u630"},
+    "2f7d3be3e86242d7881a40d23a394830":{
+      "scriptId":"u631"},
+    "e4eba2e12213444f8b43f530f9308ce8":{
+      "scriptId":"u632"},
+    "c3d7a28ac1ae4cfeb57d41e262531a10":{
+      "scriptId":"u633"},
+    "87888b4a01a4403384953b013fe7bd96":{
+      "scriptId":"u634"},
+    "6f96a7e53048478a9c0072768411a2a1":{
+      "scriptId":"u635"},
+    "fd8ffccfd0be4b64b3aa1a9061bf4bb5":{
+      "scriptId":"u636"},
+    "1869e7b73d09425abe7365f56acea759":{
+      "scriptId":"u637"},
+    "e324bfc2954b4c9c99fff9a35c50cad1":{
+      "scriptId":"u638"},
+    "39e6498100e24e8b9be70d5f92d9c7a4":{
+      "scriptId":"u639"},
+    "35f2a96736eb44b69e7235a7d9ae9449":{
+      "scriptId":"u640"},
+    "68d2ba5491b8493dbd0a33523feebc51":{
+      "scriptId":"u641"},
+    "448679f4b1d04c909a7fe02b5cc3b837":{
+      "scriptId":"u642"},
+    "f2d37364b5574895a84c472264b18932":{
+      "scriptId":"u643"},
+    "0935a5ddd69a4946a119ded6258921bb":{
+      "scriptId":"u644"},
+    "e1bbf3ac11734cff856329724f941909":{
+      "scriptId":"u645"},
+    "dafb3118ea7c4502b8a014f7abbb9948":{
+      "scriptId":"u646"},
+    "f5f3c257243942de8a429c7ab1c7b0fc":{
+      "scriptId":"u647"},
+    "99612385dc194001b8610123b056a83f":{
+      "scriptId":"u648"},
+    "27ad140dfaf941d1bf4e86fc3db0e5e5":{
+      "scriptId":"u649"},
+    "6e4ee6d8ccce48bbbfe9487c2e74670c":{
+      "scriptId":"u650"},
+    "5b13729df14b432bb76990e02ad05cc7":{
+      "scriptId":"u651"},
+    "a1fcc47e9f42449ca33a493a2dc37a46":{
+      "scriptId":"u652"},
+    "ff40ea223d0e4080bde9535aa560d797":{
+      "scriptId":"u653"},
+    "44d223c026964e6c89f1a14bc1901bf5":{
+      "scriptId":"u654"},
+    "b30ba403274f42279fa1341a0f1e2761":{
+      "scriptId":"u655"},
+    "463bffae534742a68fa733c7df0a1628":{
+      "scriptId":"u656"},
+    "dc6aafab108143db8c5efdd5956cc470":{
+      "scriptId":"u657"},
+    "c8e06a3855884f54996043d743e81bcb":{
+      "scriptId":"u658"},
+    "22987ae68f374bb3a5ee61007e5ea766":{
+      "scriptId":"u659"},
+    "e4086d81d3244a23814a4caea375faad":{
+      "scriptId":"u660"},
+    "316bde0f80c744d58506cdd226d42b47":{
+      "scriptId":"u661"},
+    "8a6e41fcf9024b328b4d3594d7b11ed2":{
+      "scriptId":"u662"},
+    "7c51d82117b54443b2ffed888e142a79":{
+      "scriptId":"u663"},
+    "c2732c25dcca4e82aa2ce55206104323":{
+      "scriptId":"u664"},
+    "712f772db5be4092909914b7b699cee9":{
+      "scriptId":"u665"},
+    "ba9518fc2f8649e7bfddf3c1e03f7955":{
+      "scriptId":"u666"},
+    "2ec316af33ba40f4bb4dd2a289182532":{
+      "scriptId":"u667"},
+    "d2561b2f7a7c467eb5fec8838641a877":{
+      "scriptId":"u668"},
+    "b3330d813b4844e284610c0e7b711b0f":{
+      "scriptId":"u669"},
+    "722f62817be44b9ab0c43877772d8094":{
+      "scriptId":"u670"},
+    "b4e73c4f01ef4596bbd214e3a2449292":{
+      "scriptId":"u671"},
+    "3e86e5b86ffc4c92a3787ac78d6a0f9d":{
+      "scriptId":"u672"},
+    "0ae109a711aa4b15aa3d19b226242b4a":{
+      "scriptId":"u673"},
+    "083c1808ec1846e3a0ce20a1d51cd5d9":{
+      "scriptId":"u674"},
+    "ac110d3846584c40a9872913af74a838":{
+      "scriptId":"u675"},
+    "55e81e965cb749718f8041a4a4074bc7":{
+      "scriptId":"u676"},
+    "d8f733e7e52f40f7acc8a14362a6a92e":{
+      "scriptId":"u677"},
+    "fd2910766030405c8b19e49b470355de":{
+      "scriptId":"u678"},
+    "454b0c28f98a4bf7b9af7c2b18a254dc":{
+      "scriptId":"u679"},
+    "ee7f5d056f884322bf7928aae3e45021":{
+      "scriptId":"u680"},
+    "d6582c4505e04df0a51fbccf14efaed3":{
+      "scriptId":"u681"},
+    "d131c4615a0f4a849831339966a6438b":{
+      "scriptId":"u682"},
+    "8d2c0213feae4a2d80dd41e655b9cf4f":{
+      "scriptId":"u683"},
+    "31bb0d75ad7044358212f0e6f13ffe97":{
+      "scriptId":"u684"},
+    "5123ec387f174f8db6be7672a12e9a16":{
+      "scriptId":"u685"},
+    "ba1032a325d248208c4ed5a93cf7f4f4":{
+      "scriptId":"u686"},
+    "1cf38b0f624041a8887248bf9589950a":{
+      "scriptId":"u687"},
+    "ef22e5035d2e4f4d9f132aa7c587bb07":{
+      "scriptId":"u688"},
+    "4f6563eece2048d289c92a491b73924d":{
+      "scriptId":"u689"},
+    "553784ce900e45b8ba94a24f2523b318":{
+      "scriptId":"u690"},
+    "f09c8eaf006d41a6af0a4d880a7e64a8":{
+      "scriptId":"u691"},
+    "08191c7edd374feeb0723de09ac753e9":{
+      "scriptId":"u692"},
+    "afb87b15419b4a718c23496637bfa3d7":{
+      "scriptId":"u693"},
+    "746f714553674aebb407a5c0f686f29e":{
+      "scriptId":"u694"},
+    "894cf9e485444334ad1cc6be3a705dca":{
+      "scriptId":"u695"},
+    "cf7110f243a5405995bd927f11957ebd":{
+      "scriptId":"u696"},
+    "813bfd9b3d64492bbbb8d0c0482dfc13":{
+      "scriptId":"u697"},
+    "39923614ea27403390b0ed4d1d1e320e":{
+      "scriptId":"u698"},
+    "1aeb3fdccaf14296a39bbb6acb0c1522":{
+      "scriptId":"u699"},
+    "2752e00337e845b1bc68cf6d9ec0f32e":{
+      "scriptId":"u700"},
+    "8a7d2cba26f74b8aaa75d8d26766c115":{
+      "scriptId":"u701"},
+    "2346645426da47b78c5606c1444b24a6":{
+      "scriptId":"u702"},
+    "9ceb25779693414fa19aa36777456cb1":{
+      "scriptId":"u703"},
+    "d3c8eb740a0945a3ba0113f6d1c4ec4e":{
+      "scriptId":"u704"},
+    "31a438a8b74b48cf83b0688efd7f138e":{
+      "scriptId":"u705"},
+    "152d62c86cb548f48028f07f8b904252":{
+      "scriptId":"u706"},
+    "09dd7be5b1084596adf4019e580288a8":{
+      "scriptId":"u707"},
+    "e2cc865af98841f797d4ced5feb36422":{
+      "scriptId":"u708"},
+    "4ca69ed6fde84b07acdba322d22d75d2":{
+      "scriptId":"u709"},
+    "de92c6bcd45b42488ca7a1c71973a88d":{
+      "scriptId":"u710"},
+    "da467ff89a7942d6acda1b4e07086b80":{
+      "scriptId":"u711"},
+    "09b5eda126bb43c8a88f4095663a379c":{
+      "scriptId":"u712"}}});
