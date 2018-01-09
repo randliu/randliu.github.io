@@ -1,7 +1,13 @@
-![Mou icon](http://www.hwuque.com/Public/Home/Css/images/top_logo.gif)
 
 
-###区块链资料
+##区块链资料
+### 资料
+1.丧心病狂的社会攻城狮 <https://zhuanlan.zhihu.com/crazy-se>
+2.
+###ETH
+1.ETH FANS<http://ethfans.org/>
+2.
+
 ## 项目管理工具
 
 **禅道**,  <http://120.25.107.11/zentaopms/www/>
