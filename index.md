@@ -3,10 +3,10 @@
 ##区块链资料
 ### 资料
 1.丧心病狂的社会攻城狮 <https://zhuanlan.zhihu.com/crazy-se>
-2.
+一分钟读懂区块链<https://zhuanlan.zhihu.com/p/29841768>
 ###ETH
 1.ETH FANS<http://ethfans.org/>
-2.
+2.完全理解以太坊ETH（四）——未来以来<https://zhuanlan.zhihu.com/p/30035999>
 
 ## 项目管理工具
 
