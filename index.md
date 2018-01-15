@@ -7,9 +7,9 @@
 2. 币未来 <https://biweilai.com/>
 
 ###白皮书
-1. 腾讯区块链白皮书 <https://github.com/randliu/randliu.github.io/blob/master/whitepaper/%E8%85%BE%E8%AE%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf>
-2. 币乎白皮书 <https://bihu.com/whitePaper.pdf>
-3. ​
+1. [腾讯区块链白皮书](https://github.com/randliu/randliu.github.io/blob/master/whitepaper/%E8%85%BE%E8%AE%AF%E5%8C%BA%E5%9D%97%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) 
+2. [币乎白皮书](https://bihu.com/whitePaper.pdf) 
+3. [以太坊白皮书](http://ethfans.org/wikis/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)
 ###文章
 
 
